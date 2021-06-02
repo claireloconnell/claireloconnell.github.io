@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Claire L. O'Connell"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "I am a PhD student in the Hobson Lab at the University of Cincinnati"
+name                     : &name "Claire L. O'Connell"
+description              : &description "PhD student in the Hobson Lab at the University of Cincinnati"
 url                      : https://claireloconnell.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/claireloconnell" # the subpath of your site, e.g. "/blog"
-repository               : "claireloconnell/claireloconnell.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "claireloconnell.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,8 +79,8 @@ analytics:
 
 
 # Site Author
-author: "Claire L. O'Connell"
-  name             : 
+author: 
+  name             : "Claire L. O'Connell"
   avatar           : "profile.png"
   bio              : "PhD Student"
   location         : "University of Cincinnati"
