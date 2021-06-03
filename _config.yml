@@ -79,9 +79,9 @@ analytics:
 
 
 # Site Author
-author: 
+author: "Claire O'Connell"
   name             : "Claire L. O'Connell"
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   bio              : "PhD Student"
   location         : "University of Cincinnati"
   employer         : "Hobson Lab"
