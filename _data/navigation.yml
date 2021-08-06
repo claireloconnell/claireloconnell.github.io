@@ -8,12 +8,12 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+
   - title: "Press"
     url: /press/
-    
+
   - title: "CV"
     url: /cv/
-    
-    - title: "Resources"
+
+  - title: "Resources"
     url: /resources/
