@@ -83,7 +83,7 @@ author:
   bio              : "PhD Student"
   location         : "University of Cincinnati"
   #employer         : "Hobson Lab"
-  employer         : <a href="http://hobsonresearch.com/" target="_blank">Hobson Lab</a>
+  employer         : <div><a href="http://hobsonresearch.com/" target="_blank">Hobson Lab</a></div>
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "oconneca@mail.uc.edu"
