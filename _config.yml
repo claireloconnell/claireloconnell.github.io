@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author: 
   name             : "Claire L. O'Connell"
-  avatar           : "/images/500x300.png"
+  avatar           : "/images/Profilepic.png"
   bio              : "Proud member of the Hobson Lab at the University of Cincinnati"
   location         : "Cincinnati, OH"
   employer         : <div><a href="http://hobsonresearch.com/"target="_blank">Hobson Lab</a></div>
@@ -308,6 +308,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
-remote_theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+   
