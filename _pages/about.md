@@ -27,6 +27,7 @@ My research will investigate how and why monk parakeets form affilative relation
 Monk parakeet (Myiopsitta monachus)
 ======
 Monk parakeets are a small neotropical parrot species from South America although invasive populations have been succesfully establishing globally since the 1970's. Monk parakeets live in highly social multi-male multi-female colonies, and form close social bonds with one or two individuals. Monk parakeets form stable dominance hierarhcies through aggressive contests. Monk parakeets, unlike other members of the parrot family, build communal stick nests in trees where they roost and raise chicks.
+![IMG_2838](https://user-images.githubusercontent.com/78130420/128660408-7e6ac710-6e45-414b-8f31-27fb6821b8c6.JPG)
 
 For more info
 ------
