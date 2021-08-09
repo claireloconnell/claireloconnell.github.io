@@ -30,4 +30,4 @@ Monk parakeets are a small neotropical parrot species from South America althoug
 
 For more info
 ------
-This website template was originally created by R. Stuart Geiger and modified by Claire O'Connell through Github pages. More information can be found here: [the guide](https://academicpages.github.io/markdown/).
+A Github Pages template for academic websites. This was forked (then detached) by Stuart Geiger from the Minimal Mistakes Jekyll Theme, which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
