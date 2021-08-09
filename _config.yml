@@ -5,7 +5,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 # Site Settings
 locale                   : "en-US"
-title                    : "Claire L. OConnell"
+title                    : "Claire L. O'Connell"
 title_separator          : "-"
 name                     : &name "Claire L. O'Connell"
 description              : &description "PhD student in the Hobson Lab at the University of Cincinnati"
