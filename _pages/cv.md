@@ -11,9 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+|              |               |                                                                                                                              |
+| --------     | ------        | ---------------------------------------------------------------------------------------------------------------------------- |
+| [B.S.](#)    | 2015-2019     | Wildlife, Fisheries and Aquaculture, Mississippi State University                                                            |
+                               | GPA: 3.6/4.0                                                                                                                 |
+                               | Independent Project: Horizontal and Vertical Camera Trapping Designs Produce Different Species Richness in Carrion Food Webs |
+                               | Advisor: Marcus Lashley, Leslie Burger                                                                                       |
+| [PhD](#)     | 2020-present  | Ecology, Evolution, and Behavior, University of Cincinnati                                                                   |
+                               | Advisor: Elizabeth Hobson                                                                                                    |
+
+* B.S. in Wildlife, Fisheries and Aquaculture, Mississippi State University, 2019
+* Ph.D in Ecology, Evolution, and Behavior, University of Cincinnati, 2026 (expected)
 
 Work experience
 ======
