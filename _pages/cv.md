@@ -8,6 +8,8 @@ redirect_from:
   - /cv.html
 ---
 
-Check out my CV!
-![ClaireO'Connell_2021CV.pdf](https://github.com/claireloconnell/claireloconnell.github.io/files/6957155/ClaireO.Connell_2021CV.pdf)
+[Check out my CV here!](http://claireloconnell.github.io/files/ClaireO'Connell_2021CV.pdf)
+
+#[ClaireO'Connell_2021CV.pdf](https://github.com/claireloconnell/claireloconnell.github.io/files/6957755/ClaireO.Connell_2021CV.pdf)
+
 
