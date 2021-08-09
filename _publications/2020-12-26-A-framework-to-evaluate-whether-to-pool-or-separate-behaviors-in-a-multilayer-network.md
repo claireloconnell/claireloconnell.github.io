@@ -10,4 +10,4 @@ citation: 'van der Marel et al. (2021). &quot;A framework to evaluate whether to
 ---
 We designed 2 reference models to test whether randomizing the number of interactions across behavior types results in similar structural patterns as the observed data.
 
-[Download paper here](http://claireloconnell.github.io/files/vanderMarel et al. 2021.pdf)
+[Download paper here](http://claireloconnell.github.io/files/vanderMareletal.2021.pdf)
