@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 Check out my CV!
-[ClaireO'Connell_2021CV.pdf](https://github.com/claireloconnell/claireloconnell.github.io/files/6957155/ClaireO.Connell_2021CV.pdf)
+![ClaireO'Connell_2021CV.pdf](https://github.com/claireloconnell/claireloconnell.github.io/files/6957155/ClaireO.Connell_2021CV.pdf)
 
