@@ -10,8 +10,8 @@ redirect_from:
 Hi!
 ======
 Welcome to my website! Here you can find more information about myself and my research. 
-![edit_Profilepic1](https://user-images.githubusercontent.com/78130420/128801376-cb67f648-1a15-4315-bafc-282fb527c538.jpg)![edit_c57c14eb-5f87-4a93-934a-ff7c46d6cef3](https://user-images.githubusercontent.com/78130420/128802370-f135e517-3eeb-4ee5-90c5-d099d8f44d0b.jpg)![edit_IMG_E2690](https://user-images.githubusercontent.com/78130420/128802452-09dbc257-38c4-4e5d-893b-494ace662500.jpg)
 
+![edit_IMG_E2690](https://user-images.githubusercontent.com/78130420/128802816-c447b85e-7ec9-4fb1-96c8-7cbb725b2e61.jpg)          ![edit_b327d69a-40c1-4f52-b82a-4371117b4f72](https://user-images.githubusercontent.com/78130420/128804351-26107d21-27d0-475f-8ae5-ebf3f35e285a.jpg)          ![edit_IMG_0189](https://user-images.githubusercontent.com/78130420/128804066-8db964bf-8afd-4f79-882e-61ce85a0a14e.jpg)          ![edit_c57c14eb-5f87-4a93-934a-ff7c46d6cef3](https://user-images.githubusercontent.com/78130420/128803055-4006f491-7c80-447d-92db-d1681b84b952.jpg)          ![edit_IMG_3620](https://user-images.githubusercontent.com/78130420/128802989-97d02da6-87b7-43cc-ae16-c35977f0855b.jpg)          ![edit_IMG_3275](https://user-images.githubusercontent.com/78130420/128803444-60b42e35-e356-4977-b334-9c95bf8779f1.jpg)          ![edit_Profilepic1](https://user-images.githubusercontent.com/78130420/128803274-59fdb9ff-6665-4091-9946-682e9981d0b0.jpg)                    
 
 Choose your friends wisely
 ======
@@ -30,7 +30,6 @@ Monk parakeet (Myiopsitta monachus)
 ======
 Monk parakeets are a small neotropical parrot species from South America although invasive populations have been succesfully establishing globally since the 1970's. Monk parakeets live in highly social multi-male multi-female colonies, and form close social bonds with one or two individuals. Monk parakeets form stable dominance hierarhcies through aggressive contests. Monk parakeets, unlike other members of the parrot family, build communal stick nests in trees where they roost and raise chicks.
 
-![edit_IMG_2966](https://user-images.githubusercontent.com/78130420/128802473-37b758ee-811e-4fdd-ab8f-05712d18ab2e.jpg)![edit_IMG_3013](https://user-images.githubusercontent.com/78130420/128802479-ae4cd05a-7f9c-45a3-8526-c865de13ff4b.jpg)![edit_IMG_3165](https://user-images.githubusercontent.com/78130420/128802506-a8e3401a-0430-42b7-b0f5-800f6c077f09.jpg)
 
 
 For more info
