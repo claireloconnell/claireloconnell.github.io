@@ -10,9 +10,7 @@ redirect_from:
 Hi!
 ======
 Welcome to my website! Here you can find more information about myself and my research. 
-![edit_Profilepic1](https://user-images.githubusercontent.com/78130420/128801376-cb67f648-1a15-4315-bafc-282fb527c538.jpg)![c57c14eb-5f87-4a93-934a-ff7c46d6cef3](https://user-images.githubusercontent.com/78130420/128802320-1fadfbdf-0971-45bb-af2e-19ac1928d02b.JPG)![edit_IMG_E2690](https://user-images.githubusercontent.com/78130420/128802333-c73e3bc7-f0f6-4386-8037-6296bd7e7ed8.jpg)
-
-
+![edit_Profilepic1](https://user-images.githubusercontent.com/78130420/128801376-cb67f648-1a15-4315-bafc-282fb527c538.jpg)![edit_c57c14eb-5f87-4a93-934a-ff7c46d6cef3](https://user-images.githubusercontent.com/78130420/128802370-f135e517-3eeb-4ee5-90c5-d099d8f44d0b.jpg)![edit_IMG_E2690](https://user images.githubusercontent.com/78130420/128802333-c73e3bc7-f0f6-4386-8037-6296bd7e7ed8.jpg)
 
 Choose your friends wisely
 ======
