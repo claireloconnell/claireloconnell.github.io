@@ -1,5 +1,5 @@
 ---
-permalink: /home/
+permalink: /about/
 title: "Hi!"
 excerpt: "Research interests"
 author_profile: true
