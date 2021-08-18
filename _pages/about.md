@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "Hi!"
 excerpt: "Research interests"
 author_profile: true
@@ -13,7 +13,7 @@ Welcome to my website! Here you can find more information about myself and my re
 About me!
 ======
 
-I joined the Hobson Lab at the University of Cincinnati in the fall of 2020 to investigate the relationship between cognition and sociality and to explore different avenues for merging animal sociality and conservation and population management efforts. I am focusing on how individual's social relationships inform future social decisions, and its effect on social strucutres like dominance hierarchies.
+I joined the [Hobson Lab](http://hobsonresearch.com/) at the University of Cincinnati in the fall of 2020 to investigate the relationship between cognition and sociality and to explore different avenues for merging animal sociality and conservation and population management efforts. I am focusing on how individual's social relationships inform future social decisions, and its effect on social strucutres like dominance hierarchies.
 
    ![edit_b327d69a-40c1-4f52-b82a-4371117b4f72](https://user-images.githubusercontent.com/78130420/128809553-b5805743-ed1b-46ad-98a7-a1f539fe406d.jpg)                                         ![edit_c57c14eb-5f87-4a93-934a-ff7c46d6cef3](https://user-images.githubusercontent.com/78130420/128809568-dbd65cdd-f704-4b64-89a9-93f62d958912.jpg)                                          ![edit_IMG_E2690](https://user-images.githubusercontent.com/78130420/128809584-9f659187-79dc-4923-9b40-295a645362f7.jpg)                                        ![edit_IMG_3620](https://user-images.githubusercontent.com/78130420/128809701-66439813-65a2-4972-9c80-9f4d5e25ad3d.jpg)
 
