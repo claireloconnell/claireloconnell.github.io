@@ -16,6 +16,8 @@ Although dominance heirarchies emphasize aggressive relationships, affiliative r
 So, stakes are high and there is a lot of information about group members to process. How do individuals cope? Individuals could keep a mental list of every group member, their fighting ability, and their partners and their fighting ability, but this is cognitively demanding and difficult to maintain if group membership is constantly changing. Alternatively, individuals could follow a set of cognitive "rules" or heuristics that help guide social decision-making. 
 
 My research will investigate how and why monk parakeets form affilative relationships and what that means for group structure and stability. My research will have important implications for the cognitive processes behind relationship formation and maintenance in a cognitively sophisticated non-primate species.
+     
+![edit_IMG_2966](https://user-images.githubusercontent.com/78130420/129975852-8962b1a1-cac2-4725-8049-2f1131b95848.jpg)                         ![edit_IMG_3013](https://user-images.githubusercontent.com/78130420/129975874-e7c6a351-4790-42ef-83f4-e52525efb855.jpg)                         ![edit_IMG_3165](https://user-images.githubusercontent.com/78130420/129975895-3a7b557f-ab73-4f83-99c5-d185ad976a0f.jpg)                         ![edit_IMG_2571](https://user-images.githubusercontent.com/78130420/129977732-6cc0331c-30bf-446a-a6a5-dff4437c2f82.jpg)                         ![edit_IMG_3110](https://user-images.githubusercontent.com/78130420/129977917-d3181688-8f60-48c3-ab7b-c13c1ebcaf52.jpg)                         ![IMG_3464](https://user-images.githubusercontent.com/78130420/129978311-71945680-3c40-497e-b07d-9c8ed8daf438.jpg)
 
 Monk parakeets (Myiopsitta monachus)
 ======
