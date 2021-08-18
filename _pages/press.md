@@ -4,9 +4,7 @@ title: "Press"
 author_profile: true
 redirect_from: 
   - /press/
-  - /press.html
+  - /press.md
 ---
 
-When push comes to shove, what is a fight?
-Twitter fight: birds use social networks to pick opponents 
-
+press
