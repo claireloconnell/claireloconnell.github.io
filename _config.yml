@@ -84,7 +84,7 @@ author:
   location         : "Cincinnati, OH"
   employer         : "Hobson Lab" 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=qMVBRjMAAAAJ&hl=en"
   email            : "oconneca@mail.uc.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
