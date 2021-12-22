@@ -2,7 +2,7 @@
 title: "A framework to evaluate whether to pool or separate behaviors in a multilayer network"
 collection: publications
 permalink: /publication/A-framework-to-evaluate-whether-to-pool-or-separate-behaviors-in-a-multilayer-network
-excerpt: 'We designed 2 reference models to test whether randomizing the number of interactions across behavior types results in similar structural patterns as the observed data.'
+excerpt: '**We designed 2 reference models to test whether randomizing the number of interactions across behavior types results in similar structural patterns as the observed data.**'
 date: 2020-12-20
 venue: 'Current Zoology'
 paperurl: 'https://academic.oup.com/cz/article/67/1/101/6050802'
