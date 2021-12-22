@@ -2,7 +2,7 @@
 title: "When push comes to shove, what is a fight?"
 collection: Press
 type: "UC News"
-permalink: /press/push
+permalink: /press/
 venue: "University of Cincinnati"
 date: 2021-01-25
 ---
