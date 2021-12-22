@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-03-12-A-comparison-of-common-behavioral-observation-software-applications-and-recommendations-for-use
 excerpt: 'We review six software applications for handheld computers that are available for real-time entry of behavioral observations: Animal Behaviour Pro, Animal Observer, BORIS, CyberTracker, Prim8, and ZooMonitor.'
 date: 2021-03-12
-venue: 'Preprint'
+venue: 'Ethology'
 paperurl: 'https://arxiv.org/abs/2103.07576'
 citation: 'van der Marel et al. (2021). &quot;A comparison of common behavioral observation software applications and recommendations for use.&quot; <i>Preprint</i>.'
 ---
