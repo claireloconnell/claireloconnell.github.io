@@ -19,7 +19,7 @@ Monk parakeets are a medium-sized neotropical parrot native to South America. Th
 Not unlike most parrot species, monk parakeets are incredibly social. Living year-round with dozens of individuals means monk parakeets must manage their relationships. Monk parakeets form strong affiliative bonds with one to two individuals by sitting in close proximity and allopreening. From our observations, it is clear that these affiliative realtionships are a significant aspect of monk parakeet's social lives. 
 
 <figure>
-  <img src="https://user-images.githubusercontent.com/78130420/147505280-34775ab5-80a6-4fdf-aeb5-83391657a5da.png" alt="Affiliation">
+  <img src="https://user-images.githubusercontent.com/78130420/147505824-f0885d81-7599-4c44-af56-1f6c44728f1c.png" alt="Affiliation">
   <figcaption>Allopreening is common between partners! It helps strengthen their social bond and can remove ectoparasites.</figcaption>
 </figure>
 
@@ -27,8 +27,8 @@ On the other hand, monk parakeets _constantly_ squabble. Aggression between indi
 
 <figure>
   <img src="https://user-images.githubusercontent.com/78130420/147505549-e4a148cc-7c9c-4552-8ac4-02261e66b557.png" alt="Aggression">
-  <figcaption>Two birds crowding each other with a bystander watching. Crowding is a common form of aggression especially when an individual is getting too close for comfort </figcaption>
- <figure>
+  <figcaption>Two birds crowding each other with a bystander watching. Crowding is a common form of aggression especially when an individual is getting too close for comfort</figcaption>
+<figure>
 
 There may be an interesting relationship between affiliation and aggression in monk parakeets. For many species, social relationships and social support can help individuals better navigate their social enivornment. This includes an individual's ability to gain and maintain rank within a dominance hierarchy.
 
