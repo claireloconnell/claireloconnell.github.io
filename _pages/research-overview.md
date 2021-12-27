@@ -5,7 +5,7 @@ permalink: /researchoverview/
 author_profile: true
 ---
 
-## Choose your friends wisely
+## Choose your friends wisely!
 Broadly, I am interested in the relationship between **sociality and cognition** in animal socieites. In the Hobson Lab, we study **social infomration**. That is, we aim to test what animals know about their social environments, how they gain social information, and how social information informs future social decisions. 
 
 **I am investigating the role of affiliation and social support in forming and maintaining social structure in monk parakeets.** I want to know what information about monk parakeet affiliative relationships are important and how their relationships may influence future social decisions. 
@@ -19,14 +19,14 @@ Monk parakeets are a medium-sized neotropical parrot native to South America. Th
 Not unlike most parrot species, monk parakeets are incredibly social. Living year-round with dozens of individuals means monk parakeets must manage their relationships. Monk parakeets form strong affiliative bonds with one to two individuals by sitting in close proximity and allopreening. From our observations, it is clear that these affiliative realtionships are a significant aspect of monk parakeet's social lives. 
 
 <figure>
-  <img src="https://user-images.githubusercontent.com/78130420/147504936-b67f1eb3-1736-457c-89df-dd3025b01208.png" alt="Affiliation">
+  <img src="https://user-images.githubusercontent.com/78130420/147505280-34775ab5-80a6-4fdf-aeb5-83391657a5da.png" alt="Affiliation">
   <figcaption>Allopreening is common between partners! It helps strengthen their social bond and can remove ectoparasites.</figcaption>
 </figure>
 
 On the other hand, monk parakeets _constantly_ squabble. Aggression between individuals, via crowding and displacements, allows us to determine relative fighting ability between a winner and loser. From this we can quantify a dominance hierarchy. Higher ranking indiviudals typically have priority access to resources and breeding opportunities. 
 
 <figure>
-  <img src="https://user-images.githubusercontent.com/78130420/147504911-afb330ad-89ba-4559-926b-f00fba7b8e79.png" alt="Aggression">
+  <img src="https://user-images.githubusercontent.com/78130420/147505171-246da462-5d98-446c-9bda-a45191297763.png" alt="Aggression">
   <figcaption>Two birds crowding each other with a bystander watching. Crowding is a common form of aggression especially when an individual is getting too close for comfort </figcaption>
  <figure>
 
