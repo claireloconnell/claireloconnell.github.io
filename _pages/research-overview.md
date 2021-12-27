@@ -13,23 +13,19 @@ Broadly, I am interested in the relationship between **sociality and cognition**
 
 With robust experiments, we can understand what social infomration individuals are paying attention to and what aspects of their relationships, like context, partner identity, bond strength are important at an individual- and group-level. 
 
-gallery:
-  - url: 
-    image_path: https://user-images.githubusercontent.com/78130420/129975852-8962b1a1-cac2-4725-8049-2f1131b95848.jpg
-    alt: "BBB and PPB"
-    title: "BBB and PPB beak touch"
-  - url:
-    image_path: https://user-images.githubusercontent.com/78130420/129975874-e7c6a351-4790-42ef-83f4-e52525efb855.jpg
-    alt: "OBB and OGO"
-    title: "OBB allopreening OGO"
-  - url: 
-    image_path: https://user-images.githubusercontent.com/78130420/129975895-3a7b557f-ab73-4f83-99c5-d185ad976a0f.jpg
-    alt: "tio"
-    title: "Members of a trio (GPG, OOP, and GGO) being vigilant"
-  - url: 
-    image_path: https://user-images.githubusercontent.com/78130420/129975895-3a7b557f-ab73-4f83-99c5-d185ad976a0f.jpg
-    alt: "PPO allopreening BBP"
-    title: "PPO allopreening BBP"
+<figure>
+  <img src="https://user-images.githubusercontent.com/78130420/129975852-8962b1a1-cac2-4725-8049-2f1131b95848.jpg" alt="Affiliation">
+  <figcaption>BBB and PPB beak touch.</figcaption>
+</figure> <figure>
+  <img src="https://user-images.githubusercontent.com/78130420/129975874-e7c6a351-4790-42ef-83f4-e52525efb855.jpg" alt="Affiliation">
+  <figcaption>OBB allopreening OGO.</figcaption>
+</figure> <figure>
+  <img src="https://user-images.githubusercontent.com/78130420/129975895-3a7b557f-ab73-4f83-99c5-d185ad976a0f.jpg" alt="Affiliation">
+  <figcaption>Members of a trio (GPG, OOP, and GGO) being vigilant.</figcaption>
+</figure> <figure>
+  <img src="https://user-images.githubusercontent.com/78130420/129975895-3a7b557f-ab73-4f83-99c5-d185ad976a0f.jpg" alt="Affiliation">
+  <figcaption>PPO allopreening BBP.</figcaption>
+</figure>
  
 Monk parakeets (Myiopsitta monachus)
 ======
@@ -43,7 +39,7 @@ Not unlike most parrot species, monk parakeets are incredibly social. Living yea
 
 On the other hand, monk parakeets _constantly_ squabble. Aggression between individuals, via crowding and displacements, allows us to determine relative fighting ability between a winner and loser. From this we can quantify a dominance hierarchy. Higher ranking indiviudals typically have priority access to resources and breeding opportunities. 
 <figure>
-  <img src="https://user-images.githubusercontent.com/78130420/147435992-a05bb1b0-0f78-44bb-9095-9ed0f23cac8f.jpg" alt="Affiliation">
+  <img src="https://user-images.githubusercontent.com/78130420/147437349-37df2eae-54da-40c1-b9c0-6e41c1a174b2.jpg" alt="Aggression">
   <figcaption>Two birds crowding each other with a bystander watching.</figcaption>
 </figure>
 
