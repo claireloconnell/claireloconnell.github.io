@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website! Here you can find more information about myself and my research. 
 
-![Final_logo](https://user-images.githubusercontent.com/78130420/147162883-0ea6f850-0b49-4b99-856b-52f9239a29fc.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/78130420/147503638-f501357a-744a-4422-897f-47eb1bfea3a3.png)
 
 About me
 ======
