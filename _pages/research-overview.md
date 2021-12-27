@@ -20,15 +20,13 @@ Monk parakeets are a medium-sized neotropical parrot native to South America. Th
 Not unlike most parrot species, monk parakeets are incredibly social. Living year-round with dozens of individuals means monk parakeets must manage their relationships. Monk parakeets form strong affiliative bonds with one to two individuals by sitting in close proximity and allopreening. From our observations, it is clear that these affiliative realtionships are a significant aspect of monk parakeet's social lives. 
 <figure>
   <img src="https://user-images.githubusercontent.com/78130420/147435992-a05bb1b0-0f78-44bb-9095-9ed0f23cac8f.jpg" alt="Affiliation">
-  <figcaption>Allopreening is common between partners.</figcaption>
+  <figcaption>Allopreening is common between partners! It helps strengthen their social bond and can remove ectoparasites.</figcaption>
 </figure>
-
 On the other hand, monk parakeets _constantly_ squabble. Aggression between individuals, via crowding and displacements, allows us to determine relative fighting ability between a winner and loser. From this we can quantify a dominance hierarchy. Higher ranking indiviudals typically have priority access to resources and breeding opportunities. 
 <figure>
   <img src="https://user-images.githubusercontent.com/78130420/147437349-37df2eae-54da-40c1-b9c0-6e41c1a174b2.jpg" alt="Aggression">
-  <figcaption>Two birds crowding each other with a bystander watching.</figcaption>
-</figure>
-
+  <figcaption>Two birds crowding each other with a bystander watching. Crowding is a common form of aggression especially when an individual is getting too close for comfort </figcaption>
+ <figure>
 There may be an interesting relationship between affiliation and aggression in monk parakeets. For many species, social relationships and social support can help individuals better navigate their social enivornment. This includes an individual's ability to gain and maintain rank within a dominance hierarchy.
 
 However, we do not know much about how monk parakeet affiliative relationships are formed and maintained nor how affiliative relationships may play a role in shaping dominance hierarchies. **My research aims to understand the role of affiliation in monk parakeet social structure.**
