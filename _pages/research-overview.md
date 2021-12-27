@@ -13,7 +13,7 @@ Broadly, I am interested in the relationship between **sociality and cognition**
 
 With robust experiments, we can understand what social infomration individuals are paying attention to and what aspects of their relationships, like context, partner identity, bond strength are important at an individual- and group-level. 
  
-Monk parakeets (Myiopsitta monachus)
+Monk parakeets (_Myiopsitta monachus_)
 ======
 Monk parakeets are a medium-sized neotropical parrot native to South America. They live in highly social multi-male multi-female colonies and build communal stick nests. These apartment-style nests are unique within the parrot family and are a conerstone of monk parakeet ecology and behavior. Monk parakeets diligently work year-round to maintain their nests and raise young.
 
