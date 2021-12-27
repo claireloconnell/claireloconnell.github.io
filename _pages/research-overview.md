@@ -12,16 +12,39 @@ Broadly, I am interested in the relationship between **sociality and cognition**
 **I am investigating the role of affiliation and social support in forming and maintaining social structure in monk parakeets.** I want to know what information about monk parakeet affiliative relationships are important and how their relationships may influence future social decisions. 
 
 With robust experiments, we can understand what social infomration individuals are paying attention to and what aspects of their relationships, like context, partner identity, bond strength are important at an individual- and group-level. 
-     
-![edit_IMG_2966](https://user-images.githubusercontent.com/78130420/129975852-8962b1a1-cac2-4725-8049-2f1131b95848.jpg)                         ![edit_IMG_3013](https://user-images.githubusercontent.com/78130420/129975874-e7c6a351-4790-42ef-83f4-e52525efb855.jpg)                         ![edit_IMG_3165](https://user-images.githubusercontent.com/78130420/129975895-3a7b557f-ab73-4f83-99c5-d185ad976a0f.jpg)                         ![edit_IMG_2571](https://user-images.githubusercontent.com/78130420/129977732-6cc0331c-30bf-446a-a6a5-dff4437c2f82.jpg)                         ![edit_IMG_3110](https://user-images.githubusercontent.com/78130420/129977917-d3181688-8f60-48c3-ab7b-c13c1ebcaf52.jpg)                         ![IMG_3464](https://user-images.githubusercontent.com/78130420/129978311-71945680-3c40-497e-b07d-9c8ed8daf438.jpg)
-
+gallery:
+  - url: 
+    image_path: https://user-images.githubusercontent.com/78130420/129975852-8962b1a1-cac2-4725-8049-2f1131b95848.jpg
+    alt: "BBB and PPB"
+    title: "BBB and PPB beak touch"
+  - url:
+    image_path: https://user-images.githubusercontent.com/78130420/129975874-e7c6a351-4790-42ef-83f4-e52525efb855.jpg
+    alt: "OBB and OGO"
+    title: "OBB allopreening OGO"
+  - url: 
+    image_path: https://user-images.githubusercontent.com/78130420/129975895-3a7b557f-ab73-4f83-99c5-d185ad976a0f.jpg
+    alt: "tio"
+    title: "Members of a trio (GPG, OOP, and GGO) being vigilant"
+  - url: 
+    image_path: https://user-images.githubusercontent.com/78130420/129975895-3a7b557f-ab73-4f83-99c5-d185ad976a0f.jpg
+    alt: "PPO allopreening BBP"
+    title: "PPO allopreening BBP"
+ 
 Monk parakeets (Myiopsitta monachus)
 ======
 Monk parakeets are a medium-sized neotropical parrot native to South America. They live in highly social multi-male multi-female colonies and build communal stick nests. These apartment-style nests are unique within the parrot family and are a conerstone of monk parakeet ecology and behavior. Monk parakeets diligently work year-round to maintain their nests and raise young.
 
 Not unlike most parrot species, monk parakeets are incredibly social. Living year-round with dozens of individuals means monk parakeets must manage their relationships. Monk parakeets form strong affiliative bonds with one to two individuals by sitting in close proximity and allopreening. From our observations, it is clear that these affiliative realtionships are a significant aspect of monk parakeet's social lives. 
+<figure>
+  <img src="https://user-images.githubusercontent.com/78130420/147435992-a05bb1b0-0f78-44bb-9095-9ed0f23cac8f.jpg" alt="Affiliation">
+  <figcaption>_Allopreening is common between partners_.</figcaption>
+</figure>
 
 On the other hand, monk parakeets _constantly_ squabble. Aggression between individuals, via crowding and displacements, allows us to determine relative fighting ability between a winner and loser. From this we can quantify a dominance hierarchy. Higher ranking indiviudals typically have priority access to resources and breeding opportunities. 
+<figure>
+  <img src="https://user-images.githubusercontent.com/78130420/147435992-a05bb1b0-0f78-44bb-9095-9ed0f23cac8f.jpg" alt="Affiliation">
+  <figcaption>Two birds crowding each other with a bystander watching.</figcaption>
+</figure>
 
 There may be an interesting relationship between affiliation and aggression in monk parakeets. For many species, social relationships and social support can help individuals better navigate their social enivornment. This includes an individual's ability to gain and maintain rank within a dominance hierarchy.
 
