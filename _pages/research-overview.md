@@ -26,7 +26,7 @@ Not unlike most parrot species, monk parakeets are incredibly social. Living yea
 On the other hand, monk parakeets _constantly_ squabble. Aggression between individuals, via crowding and displacements, allows us to determine relative fighting ability between a winner and loser. From this we can quantify a dominance hierarchy. Higher ranking indiviudals typically have priority access to resources and breeding opportunities. 
 
 <figure>
-  <img src="https://user-images.githubusercontent.com/78130420/147505171-246da462-5d98-446c-9bda-a45191297763.png" alt="Aggression">
+  <img src="https://user-images.githubusercontent.com/78130420/147505549-e4a148cc-7c9c-4552-8ac4-02261e66b557.png" alt="Aggression">
   <figcaption>Two birds crowding each other with a bystander watching. Crowding is a common form of aggression especially when an individual is getting too close for comfort </figcaption>
  <figure>
 
