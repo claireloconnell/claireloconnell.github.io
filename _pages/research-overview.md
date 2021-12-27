@@ -12,20 +12,6 @@ Broadly, I am interested in the relationship between **sociality and cognition**
 **I am investigating the role of affiliation and social support in forming and maintaining social structure in monk parakeets.** I want to know what information about monk parakeet affiliative relationships are important and how their relationships may influence future social decisions. 
 
 With robust experiments, we can understand what social infomration individuals are paying attention to and what aspects of their relationships, like context, partner identity, bond strength are important at an individual- and group-level. 
-
-<figure>
-  <img src="https://user-images.githubusercontent.com/78130420/129975852-8962b1a1-cac2-4725-8049-2f1131b95848.jpg" alt="Affiliation">
-  <figcaption>BBB and PPB beak touch.</figcaption>
-</figure> <figure>
-  <img src="https://user-images.githubusercontent.com/78130420/129975874-e7c6a351-4790-42ef-83f4-e52525efb855.jpg" alt="Affiliation">
-  <figcaption>OBB allopreening OGO.</figcaption>
-</figure> <figure>
-  <img src="https://user-images.githubusercontent.com/78130420/129975895-3a7b557f-ab73-4f83-99c5-d185ad976a0f.jpg" alt="Affiliation">
-  <figcaption>Members of a trio (GPG, OOP, and GGO) being vigilant.</figcaption>
-</figure> <figure>
-  <img src="https://user-images.githubusercontent.com/78130420/129975895-3a7b557f-ab73-4f83-99c5-d185ad976a0f.jpg" alt="Affiliation">
-  <figcaption>PPO allopreening BBP.</figcaption>
-</figure>
  
 Monk parakeets (Myiopsitta monachus)
 ======
