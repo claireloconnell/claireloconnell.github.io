@@ -3,18 +3,6 @@ layout: archive
 title: "Research Overview"
 permalink: /researchoverview/
 author_profile: true
----
-
-## Choose your friends wisely
-
-Broadly, I am interested in the relationship between **sociality and cognition** in animal socieites. In the Hobson Lab, we study **social infomration**. That is, we aim to test what animals know about their social environments, how they gain social information, and how social information informs future social decisions. 
-
-**I am investigating the role of affiliation and social support in forming and maintaining social structure in monk parakeets.** I want to know what information about monk parakeet affiliative relationships are important and how their relationships may influence future social decisions. 
-
-With robust experiments, we can understand what social infomration individuals are paying attention to and what aspects of their relationships, like context, partner identity, bond strength are important at an individual- and group-level. 
-
-```yaml
-<figure>
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: https://user-images.githubusercontent.com/78130420/147439799-b624662c-12ce-45bb-8204-9b2f522dabfa.jpg
@@ -28,10 +16,20 @@ gallery:
     image_path: https://user-images.githubusercontent.com/78130420/147439996-fcb78687-89e4-4339-925e-2a22ed3cac14.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
- <figure>
-   {% include gallery caption="This is a sample gallery with **Markdown support**." %}
-```
-  
+---
+
+## Choose your friends wisely
+
+Broadly, I am interested in the relationship between **sociality and cognition** in animal socieites. In the Hobson Lab, we study **social infomration**. That is, we aim to test what animals know about their social environments, how they gain social information, and how social information informs future social decisions. 
+
+**I am investigating the role of affiliation and social support in forming and maintaining social structure in monk parakeets.** I want to know what information about monk parakeet affiliative relationships are important and how their relationships may influence future social decisions. 
+
+With robust experiments, we can understand what social infomration individuals are paying attention to and what aspects of their relationships, like context, partner identity, bond strength are important at an individual- and group-level. 
+
+<figure>
+{% raw %}{% include gallery id="gallery" caption="Monk parakeets." %}{% endraw %}
+<figure> 
+
 Monk parakeets (_Myiopsitta monachus_)
 ======
 Monk parakeets are a medium-sized neotropical parrot native to South America. They live in highly social multi-male multi-female colonies and build communal stick nests. These apartment-style nests are unique within the parrot family and are a conerstone of monk parakeet ecology and behavior. Monk parakeets diligently work year-round to maintain their nests and raise young.
