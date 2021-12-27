@@ -12,6 +12,7 @@ Broadly, I am interested in the relationship between **sociality and cognition**
 **I am investigating the role of affiliation and social support in forming and maintaining social structure in monk parakeets.** I want to know what information about monk parakeet affiliative relationships are important and how their relationships may influence future social decisions. 
 
 With robust experiments, we can understand what social infomration individuals are paying attention to and what aspects of their relationships, like context, partner identity, bond strength are important at an individual- and group-level. 
+
 gallery:
   - url: 
     image_path: https://user-images.githubusercontent.com/78130420/129975852-8962b1a1-cac2-4725-8049-2f1131b95848.jpg
@@ -37,7 +38,7 @@ Monk parakeets are a medium-sized neotropical parrot native to South America. Th
 Not unlike most parrot species, monk parakeets are incredibly social. Living year-round with dozens of individuals means monk parakeets must manage their relationships. Monk parakeets form strong affiliative bonds with one to two individuals by sitting in close proximity and allopreening. From our observations, it is clear that these affiliative realtionships are a significant aspect of monk parakeet's social lives. 
 <figure>
   <img src="https://user-images.githubusercontent.com/78130420/147435992-a05bb1b0-0f78-44bb-9095-9ed0f23cac8f.jpg" alt="Affiliation">
-  <figcaption>_Allopreening is common between partners_.</figcaption>
+  <figcaption>Allopreening is common between partners.</figcaption>
 </figure>
 
 On the other hand, monk parakeets _constantly_ squabble. Aggression between individuals, via crowding and displacements, allows us to determine relative fighting ability between a winner and loser. From this we can quantify a dominance hierarchy. Higher ranking indiviudals typically have priority access to resources and breeding opportunities. 
