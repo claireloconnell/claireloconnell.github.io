@@ -5,21 +5,20 @@ permalink: /researchoverview/
 author_profile: true
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: https://user-images.githubusercontent.com/78130420/147439799-b624662c-12ce-45bb-8204-9b2f522dabfa.jpg
+    image_path: ![edit_IMG_2571](https://user-images.githubusercontent.com/78130420/147442204-6f4025e8-6685-4423-978f-6fd958cc52f0.jpg)
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: https://user-images.githubusercontent.com/78130420/147439840-bbe348a7-9bb3-4964-a72a-7b3fe829f9d8.jpg
+    image_path: ![edit_IMG_2966](https://user-images.githubusercontent.com/78130420/147442167-58ea35b5-858e-4b3c-9ce4-c6e4d2cb4123.jpg)
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: https://user-images.githubusercontent.com/78130420/147439996-fcb78687-89e4-4339-925e-2a22ed3cac14.jpg
+    image_path:![edit_IMG_3165](https://user-images.githubusercontent.com/78130420/147442102-7ed82323-8a45-4588-b7b3-351e184d9da0.jpg)
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
 
 ## Choose your friends wisely
-
 Broadly, I am interested in the relationship between **sociality and cognition** in animal socieites. In the Hobson Lab, we study **social infomration**. That is, we aim to test what animals know about their social environments, how they gain social information, and how social information informs future social decisions. 
 
 **I am investigating the role of affiliation and social support in forming and maintaining social structure in monk parakeets.** I want to know what information about monk parakeet affiliative relationships are important and how their relationships may influence future social decisions. 
