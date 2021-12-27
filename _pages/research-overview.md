@@ -12,7 +12,22 @@ Broadly, I am interested in the relationship between **sociality and cognition**
 **I am investigating the role of affiliation and social support in forming and maintaining social structure in monk parakeets.** I want to know what information about monk parakeet affiliative relationships are important and how their relationships may influence future social decisions. 
 
 With robust experiments, we can understand what social infomration individuals are paying attention to and what aspects of their relationships, like context, partner identity, bond strength are important at an individual- and group-level. 
- 
+<figure>
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: https://user-images.githubusercontent.com/78130420/147439799-b624662c-12ce-45bb-8204-9b2f522dabfa.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: https://user-images.githubusercontent.com/78130420/147439840-bbe348a7-9bb3-4964-a72a-7b3fe829f9d8.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: https://user-images.githubusercontent.com/78130420/147439996-fcb78687-89e4-4339-925e-2a22ed3cac14.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+ <figure>
+  
 Monk parakeets (_Myiopsitta monachus_)
 ======
 Monk parakeets are a medium-sized neotropical parrot native to South America. They live in highly social multi-male multi-female colonies and build communal stick nests. These apartment-style nests are unique within the parrot family and are a conerstone of monk parakeet ecology and behavior. Monk parakeets diligently work year-round to maintain their nests and raise young.
