@@ -48,7 +48,7 @@ _Tips_
 Dates and times are notoriously tricky to work with in R, don't get disouraged!
 From a data ethics standpoint, it is important to make sure you aren't misrepresting the data.
 
-Wranling 
+Wrangling 
 ======
 Now that your data is nice and clean, its ready _to get ready_ to work with! Here, we need to make sure we have all of the information we need to test our hypothesis. 
 
