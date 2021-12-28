@@ -247,7 +247,7 @@ defaults:
       path: ""
       type: press
     values:
-      layout: archive
+      layout: single
       author_profile: true
       share: true
 
