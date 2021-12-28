@@ -27,8 +27,8 @@ On the other hand, monk parakeets _constantly_ squabble. Aggression between indi
 
 <figure>
   <img src="https://user-images.githubusercontent.com/78130420/147505549-e4a148cc-7c9c-4552-8ac4-02261e66b557.png" alt="Aggression">
-  <figcaption>Two birds crowding each other with a bystander watching. Crowding is a common form of aggression especially when an individual is getting too close for comfort</figcaption>
-<figure>
+  <figcaption>Two birds crowding each other with a bystander watching. Crowding is a common form of aggression especially when an individual is getting too close for comfort!</figcaption>
+</figure>
 
 There may be an interesting relationship between affiliation and aggression in monk parakeets. For many species, social relationships and social support can help individuals better navigate their social enivornment. This includes an individual's ability to gain and maintain rank within a dominance hierarchy.
 
