@@ -1,7 +1,7 @@
 ---
 title: 'R: the basics'
 date: 2013-08-14
-permalink: /posts/basics/
+permalink: /SNA-blog/basics/
 tags:
   - R
   - data
