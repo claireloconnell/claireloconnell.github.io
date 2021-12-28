@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Welcome to my website! Here you can find more information about myself and my research. 
 ![Screenshot (63)](https://user-images.githubusercontent.com/78130420/147525372-b0620ab1-32fd-4d8e-9e41-7a59be4ebdc1.png)
+_**Welcome to my website! Here you can find more information about myself and my research.**_
 
 About me
 ======
