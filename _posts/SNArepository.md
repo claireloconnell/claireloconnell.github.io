@@ -18,5 +18,5 @@ _if you know of any helpful resources that I have missed, feel free to email me!
 
 | Source            | tags   | Coding experience | Type Notes                                                              |
 | ------------      |--------| ------------------|------------------------------------------ |
-| [Dr. Dia Shizuka's blog](https://dshizuka.github.io/networkanalysis/index.html)    |  blog, tutorials, example code, R  | Beginnger | Dr. Shizuka's website is one of my favorites that I reference all the time! It has everything a beginnger would need - easy to digest explanations, tutorials, and example code to work with. |
+| [Dia Shizuka's blog](https://dshizuka.github.io/networkanalysis/index.html)    |  blog, tutorials, example code, R  | Beginnger | Dr. Shizuka's website is one of my favorites that I reference all the time! It has everything a beginnger would need - easy to digest explanations, tutorials, and example code to work with. |
 
