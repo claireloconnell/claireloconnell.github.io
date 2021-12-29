@@ -1,7 +1,7 @@
 ---
 title: '5 step framework'
 date: 2013-08-14
-permalink: /posts/basics/
+permalink: /posts/framework/
 tags:
   - R
   - data
