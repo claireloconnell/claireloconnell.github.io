@@ -14,10 +14,16 @@ Thankfully there are tons of resources available to anyone looking to learn SNA,
 
 _if you know of any helpful resources that I have missed, feel free to email me!_ 
 
+You can also find a table of my posts!
+
 ------
 
 | Source            | Tags   | Coding experience | Notes                                                              |
 | ------------      |--------| ------------------|------------------------------------------ |
 | [Dia Shizuka's blog](https://dshizuka.github.io/networkanalysis/index.html)    |  blog, tutorials, example code, R  | Beginner | Dr. Shizuka's website is one of my favorites! I reference his blog all the time. He created his blog as a graduate student learning to code, so it covers all the basics. It has everything a beginnger would need - easy to digest explanations, tutorials, and example code to work with. |
 | [Igraph R tutorial](https://igraph.org/r/)  | R documentation, examples, manual, plotting tutorials  | Beginner | igraph is a useful R package for plotting networks! You can follow this link for details about igraph.  |
+
+| Post title          | Tags   | Coding experience | Notes                                                              |
+| ------------      |--------| ------------------|------------------------------------------ |
+| [5 step framework]()    | notes | Beginner | I present my 5 step framework for how I approach data analysis. I work through an example of I would import, clean, wrangle, summarize, and plot data |
 
