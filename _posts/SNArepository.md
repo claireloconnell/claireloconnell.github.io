@@ -26,4 +26,4 @@ You can also find a table of my posts!
 | Post title          | Tags   | Coding experience | Notes                                                              |
 | ------------      |--------| ------------------|------------------------------------------ |
 | [5 step framework]()    | notes | Beginner | I present my 5 step framework for how I approach data analysis. I work through an example of I would import, clean, wrangle, summarize, and plot data |
-
+| [What I learned teaching R]()    | notes   | Beginner  | I talk about what I learned about teaching coding in R as I learn how to code in R. I give some advice for anyone looking to start coding |
