@@ -36,7 +36,7 @@ However, we do not know much about how monk parakeet affiliative relationships a
 
 Monk parakeets are an interesting species to study from a cognitive perspective because they share several hallmarks of intelligence in primates including long developmental periods and lifespans, large relative brain size, and large complex societies with highly individualized relationships.
 
-You might have seen these charismatic birds flying around a city near you! Monk parakeets gained popularity in the pet trade and as a result of releases, established breeding populations globally. Here in the U.S. they can be found in but are not limited to Florida, Texas, Louisiana, New York, Connecticut, and Illinois. 
+You might have seen these charismatic birds flying around a city near you! Monk parakeets gained popularity in the pet trade and as a result of releases established breeding populations globally. Here in the U.S. they can be found in but are not limited to Florida, Texas, Louisiana, New York, Connecticut, and Illinois. 
 
 They are commonly found in urban areas and while some people enjoy these gregarious, albeit noisy, parrots at their bird feeders, others are not so keen. They are generally regarded as an agricultural pest and are known to cause significant damage to power structures.
 
