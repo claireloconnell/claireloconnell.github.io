@@ -12,7 +12,7 @@ Monk parakeets are highly social and form individualized relationships with memb
 
 Thankfully there are tons of resources available to anyone looking to learn SNA, but it's difficult to sort through tons of tutorials, websites, and books designed for different audiences in mind. This can be espeically difficult to navigate if you're new to coding! **My goal is to compile helpful SNA resources that I have come across as I learn SNA as a novice coder.** Hopefully, you will find this repository useful no matter what stage of coding you are at!
 
-_if you know of any helpful resources that I have missed, feel free to email me!_ 
+_If you know of any helpful resources that I have missed, feel free to email me!_ 
 
 You can also find a table of my posts!
 
@@ -25,5 +25,5 @@ You can also find a table of my posts!
 
 | Post title          | Tags   | Coding experience | Notes                                                              |
 | ------------      |--------| ------------------|------------------------------------------ |
-| [5 step framework]()    | notes | Beginner | I present my 5 step framework for how I approach data analysis. I work through an example of I would import, clean, wrangle, summarize, and plot data |
-| [What I learned teaching R]()    | notes   | Beginner  | I talk about what I learned about teaching coding in R as I learn how to code in R. I give some advice for anyone looking to start coding |
+| [5 step framework](http://www.claireloconnell.com/posts/framework/)    | notes | Beginner | I present my 5 step framework for how I approach data analysis. I work through an example of I would import, clean, wrangle, summarize, and plot data. |
+| [What I learned teaching R](http://www.claireloconnell.com/posts/lessons-learned)    | notes   | Beginner  | I talk about what I learned about teaching coding in R as I learn how to code in R. I give some advice for anyone looking to start coding. |
