@@ -63,20 +63,22 @@ Voilà:
 
 Once I felt like I understood how packages and functions worked, I started to see more complex lines of code. Again, it seemed crazy to me to think that people typing out these long lines of code that accomplishes so much! _How were they doing this? How do you even begin to create something so entricate?_
 
-The short answer is they don't! The trick is tack on elements to code to make it more complex. Much like legos, you start with a foundational piece - a peice or two that are fundamental to the structure. Then you start to add the fancy peices that make it look nice! 
+The short answer is they don't! The trick is tack on elements to code to make it more complex. Much like legos, you start with a foundational piece - a piece or two that are fundamental to the structure. Then you start to add the fancy peices that make it look nice! 
 
 **With my lego metaphor in mind, let's work through how we might make a pretty plot in R.**
 
-First, we need to use the skills we learned above but take it one step further. The [tidyverse](https://www.tidyverse.org/) is a collection of packages - think a _toolshed_ that houses a bunch of toolboxes that contain many tools. We are going to use ggplot2 to graph! Start with:
+First, we need to use the skills we learned above but take it one step further. The [tidyverse](https://www.tidyverse.org/) is a collection of packages - think a _toolshed_ that houses a bunch of toolboxes that contain many tools. The core packages, like ggplot2 and dplyr, within the tidyverse are extremely useful and very common. You can install the entire tidyverse or just ggplot2. We are going to use ggplot2 to graph! Start with:
 <pre>
 install.packages("tidyverse")
+library(tidyverse)
+install.packages("ggplot2")
 library(ggplot2)
 </pre>
 
 To graph using ggplot, you need a few basic elements
 <pre>
 ggplot(df, aes(x = x-axis, y = y-axis) +
-geom_bar(stat = "indentity)
+geom_bar(stat = "identity")
 </pre>
 
 This your foundational lego - it is the minimum amount of code required to create a bar graph with ggplot. Notice the `+`. We use `+` to tack on extra "legos". This could be functions like `labs()` to specify our labels, `lims()` to set our x and y limits, or `scale_color_gradient()` to create a gradient of color in our graph.
@@ -86,4 +88,4 @@ This your foundational lego - it is the minimum amount of code required to creat
   <figcaption>Here is an example of how to add elements to a graph to facy it up!</figcaption>
 </figure>
 
-My point is, to avoid getting overwhelmed, start with the basics, then figure out what you need to accomplish your goal! Again, having a plan or a clear goal is crucial so you don't get lost in a coding rabbit hole!
+My point is, to avoid getting overwhelmed, start with the basics. Then figure out what you need to accomplish your goal! Again, having a plan or a clear goal is crucial to avoid the coding rabbit hole!
