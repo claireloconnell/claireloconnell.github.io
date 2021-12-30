@@ -1,7 +1,7 @@
 ---
 title: 'SNA Respository'
 date: 2021-12-28
-permalink: /posts/SNArepository/
+permalink: /posts/2021/12/SNArepository/
 tags:
   - notes
   - resources
