@@ -1,6 +1,6 @@
 ---
 title: 'What I learned teaching R'
-date: 2022-01-04
+date: 2021-12-30
 permalink: /posts/lessons-learned
 tags:
   - R
