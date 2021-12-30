@@ -1,6 +1,6 @@
 ---
 title: '5 step framework'
-date: 2013-08-14
+date: 2021-12-29 
 permalink: /posts/framework/
 tags:
   - R
