@@ -1,5 +1,5 @@
 ---
-title: '5 step framework'
+title: '5 step framework for staying organized'
 date: 2021-12-29 
 permalink: /posts/framework/
 tags:
@@ -25,14 +25,14 @@ _Tips and tricks:_
   <figcaption>Here is an example R Markdown (Rmd) file. This is how I like to set up my interface in R.</figcaption>
 </figure>
 
-For this example, I am using data collected from the colony of little blue penguins at the Cincinnati Zoo! The Zoo has RFID antennas around the little blue habitat to collect automated data on the location of each penguin. My advisor, [Dr. Liz Hobson](http://hobsonresearch.com/), has been collaborating with the Cincinnati Zoo to help answer questions about penguin sociality! You can read more about it [here](http://hobsonresearch.com/index.php/biol2099-analytical-tools-for-behavior-information/.)
+For this example I am using data collected from a colony of little blue penguins at the Cincinnati Zoo! The Zoo has RFID antennas scattered around the little blue habitat to collect automated data on the location of each penguin. My advisor, [Dr. Liz Hobson](http://hobsonresearch.com/), has been collaborating with the Cincinnati Zoo to help answer questions about penguin sociality! You can read more about it [here](http://hobsonresearch.com/index.php/biol2099-analytical-tools-for-behavior-information/.).
 
 <figure>
   <img src="https://user-images.githubusercontent.com/78130420/147704396-8a69f2d8-d2af-46ad-ad44-68c6a92b9934.png" alt="rmd">
   <figcaption>This is what the RFID data from the little blue penguins looks like! This is the data I am working with for the example below.</figcaption>
 </figure>
 
-**Now that I have data on which little blue penguin was where and when, I can use this data to figure out where the penguins spends most of their time (i.e. where they were pinged the most) in the month of December! I will walk you through how I might do this following my five step framework.**
+**Now that I have data on which little blue penguin was where and when, I can use it to figure out where the penguins spends most of their time (i.e. where they were pinged the most) in the month of December! I will walk you through how I might do this following my five step framework.**
 
 Import data
 ======
@@ -72,9 +72,9 @@ From a data ethics standpoint, it is important to make sure you aren't misrepres
 
 Wrangling
 ======
-Now that your data is nice and clean, its ready _to get ready_ to work with! Here, we need to make sure we have all of the information we need to test our hypothesis and/or plot. Don't under estimate this step! Plannning is key and your future self will thank you if you annotate your code (i.e. write notes for yourself and others about what you are 1. trying to accomplish, and 2. line by line instructions).
+Now that your data is nice and clean, its ready _to get ready_ to work with! Here, we need to make sure we have all of the information we need to test our hypothesis and/or plot. **Don't under estimate this step!** Plannning is key and your future self will thank you if you **annotate** your code (i.e. write notes for yourself and others about what you are 1. trying to accomplish, and 2. line by line instructions).
 
-Here, I extract the month and seconds from the date/time column (d_hrm) and create new columns (months and seconds, respectively). I then used my new month column to filter my dataframe to only include data from the month of December (12). I also created a new column called sec.rounded which is the seconds column rounded to the nearest 5. _we will not need this for our goal of summmarizing where the penguins spend most of their time. It is just another example of what you might want to accomplish during the wrangling stage._
+Here, I extract the month and seconds from the date/time column (`d_hrm`) and create new columns (months and seconds, respectively). I then used my new month column to filter my dataframe to only include data from the month of December (`12`). I also created a new column called `sec.rounded` which is the seconds column rounded to the nearest 5. _We will not need this for our goal of summmarizing where the penguins spend most of their time. It is just another example of what you might want to accomplish during the wrangling stage._
 
 **_Helpful functions_**
 `gather()`
@@ -83,14 +83,15 @@ Here, I extract the month and seconds from the date/time column (d_hrm) and crea
 `mutate()`
 
 _Tips and tricks:_
-This is the best time to have a plan! Write yourself a To Do list or write pseudocode to be your guide. This keeps you organized and on track. 
-When in doubt, just Google it! Odds are someone has run into the same error you have and have graciously posted the solution. Websites like Stack Overflow are very helpful!
+
+This is the best time to have a plan! Write yourself a To Do list or write **pseudocode** to be your guide. This keeps you organized and on track. 
+**When in doubt, just Google it!** Odds are someone has run into the same error you have and graciously posted the solution. Websites like Stack Overflow are very helpful!
 
 Summarizing 
 ======
-At long last, your'e ready to summarize your data in a digestable format. ere is where you get to make sense of your data by condensing the information we need to know to answer our question. 
+At long last, you're ready to summarize your data in a digestable and meaningful format. Here is where you get to make sense of your data by condensing the information we need to know to answer our question. 
 
-In order to figure out where each penguin was picked up the most, we need a **count** of how many times each **penguin** was picked up at eahc **antenna**.
+In order to figure out where each penguin was picked up the most, we need a **count** of how many times the penguins (collectively) were picked up at each **antenna**.
 
 **_Helpful functions_**
 `filter(), select(), subset()`
@@ -101,7 +102,7 @@ In order to figure out where each penguin was picked up the most, we need a **co
 
 _Tips and tricks:_
 
-At this stage, its easiest to have a plan for how you want to best visually represent your data. This means deciding what kind of graph you are going to use and what data do you need to make the graph. With a plan, it is much easier to understand how you need to summarize your data. 
+At this stage, it's easiest to have a plan for how you want to best visually represent your data. This means deciding what **type of graph** you are going to use and **what data do you need** to make the graph. With a plan, it is much easier to understand how you need to summarize your data. 
 
 <figure>
   <img src="https://user-images.githubusercontent.com/78130420/147705537-33a2f2d0-77d9-4a9b-b863-175fffc1a22f.png" alt="wrangle and summarize">
