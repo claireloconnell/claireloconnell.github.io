@@ -15,6 +15,13 @@ About me
 
 I joined the [Hobson Lab](http://hobsonresearch.com/) at the University of Cincinnati in the fall of 2020 to investigate the relationship between cognition and sociality and to explore different avenues for merging animal sociality and conservation and population management efforts. I focus on how individual's affiliative relationships inform future social decisions, and its effect on social strucutre like dominance hierarchies.
 
+<figure>
+  <img src="https://user-images.githubusercontent.com/78130420/181634617-dba0041a-1016-4e38-9eb1-02ebeb39f629.JPG"
+ alt="Affiliation">
+  <figcaption>Purple (PPP) preening GOO.</figcaption>
+</figure>
+
+
 **Check out my social network analysis blog!** 
 ======
 Coding in R is an essential skill for behavioral ecologists, but if you're like me, it's not exactly intuitive and can be overwhelming! I created a blog to compile all of the resources I use to help me learn to code, and I supplement these resources with my notes. I hope to update my blog as I learn, so it can be a helpful resource for anyone at any stage looking to learn analytical skills in R. Particularly skills for behavioral analyses like social network analysis. [Here](http://www.claireloconnell.com/posts/2021/12/SNArepository/) is a good place to start.
