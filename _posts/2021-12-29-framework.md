@@ -7,7 +7,7 @@ tags:
   - data
   - basics
 ---
-As I learn to navigate R and coding best practices, I realized a crucial first step is _getting organized_. Staying organized is another challenge in and of itself, but it is much easier to do if you have a solid plan for your code before you get started. Thankfully, there are tons of ways to make sure you start on the right track and stay organized along your coding journey. I want to share how I approach the basics data analysis in five steps: 
+As I learn to navigate R and coding best practices, I realized a crucial first step is _getting organized_. Staying organized is another challenge in and of itself, but it is much easier to do if you have a solid plan for your code before you get started. Thankfully, there are tons of ways to make sure you start on the right track and stay organized along your coding journey. **I want to share how I approach the basics data analysis in five steps:**
 1. Import
 2. Clean
 3. Wrangle
