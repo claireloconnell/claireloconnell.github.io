@@ -28,9 +28,9 @@ library(igraph)
 
 So, in the same way you wouldn't use a hammer to screw in screw, you wouldn't use `graph_from_data_frame()`, which unsurprisingly outputs a graph from an data frame to find the **degree** of nodes in the network. You would use the tool `degree()`.
 
-We can start to see how helpful these tools are, but we also need to provide some information to make the tools _useful_. Back to our metaphor, if you need to hammer a nail in a block of wood, you have to provide the hammer with what it needs to do its job: block of wood and a nail!
+We can start to see how helpful these tools are, but we also need to provide some information to make the tools _useful_. Back to our metaphor: if you need to hammer a nail into a block of wood, you have to provide the hammer with what it needs to do its job: block of wood and a nail!
 
-That is to say a hammer doesn't have anything to hammer without nails and wood. In the same way if you use a function like `graph_from_data_frame()` you have to supply it with the information it needs to accomplish its intended for. 
+That is to say a hammer doesn't have anything to hammer without nails and wood. In the same way if you use a function like `graph_from_data_frame()` you have to supply it with the information it needs to accomplish its intended for, a dataframe. 
 
 Luckily, there is lots of documentation to tell you what the function needs in order to work. Let's keep using `graph_from_data_frame()` as an example. 
 
@@ -63,7 +63,7 @@ Voilà:
 
 Once I felt like I understood how packages and functions worked, I started to see more complex lines of code. Again, it seemed crazy to me to think that people typing out these long lines of code that accomplishes so much! _How were they doing this? How do you even begin to create something so entricate?_
 
-The short answer is they don't! The trick is tack on elements to code to make it more complex. Much like legos, you start with a foundational piece - a piece or two that are fundamental to the structure. Then you start to add the fancy peices that make it look nice! 
+The short answer is they don't! The trick is tack on elements to code to make it more complex. **Much like legos, you start with a foundational piece - a piece or two that are fundamental to the structure.** Then you start to add the fancy peices that make it look nice! 
 
 **With my lego metaphor in mind, let's work through how we might make a pretty plot in R.**
 
@@ -89,3 +89,5 @@ This your foundational lego - it is the minimum amount of code required to creat
 </figure>
 
 My point is, to avoid getting overwhelmed, start with the basics. Then figure out what you need to accomplish your goal! Again, having a plan or a clear goal is crucial to avoid the coding rabbit hole!
+
+Pro-tip: Draw a sketch of what you want your plot to look like before hand to keep you on track
