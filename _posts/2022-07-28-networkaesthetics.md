@@ -6,7 +6,7 @@ tags:
   - notes
   - resources
 ---
-**Here I describe some basic aesthetics, and I show you how I incorportate **attributes**. to my networks. Huge shout out to Liz Hobson for showing me most of these tips!!**
+**Here I describe some basic aesthetics, and I show you how I incorportate attributes to my networks. Huge shout out to Liz Hobson for showing me most of these tips!!**
 
 Once you're comfortable going from a dataframe (whether it is an _edgelist_ or _adjacency matrix_) to a plot, it's time to start thinking about aethetics! In my opinion, this is the best and most frustrating part. It's fun because this is where your vision really comes together, and you can create a really beautiful network that is easy to interpret and visually appealing! However, it can be tricky forcing R to see your vision through. Thankfully, there are many packages and functions out there to help you out. You can use **igraph** or **ggraph** to plot networks. Which one you use somewhat depends on what you want to accomplish, but for this tutorial, I will be using igraph. 
 
@@ -25,16 +25,18 @@ First, I convert my edgelist to a network object called _graph_ with the functio
 
 In lines 106-115 (Fig 1), I am essentially selecting the vertices, or nodes, of a particular site_captured, creating a new column called _color_, and assigning them a color (i.e . #D7191c). I do the same with sex, but instead of assigning a color, I assign each sex to a shape. You can use the function: `get.vertex.attribute(graph, "color")` to double check!
 
+**TIP:** Be considerate about the colors you are using, particularly for our colorblind friends. [Here](https://stackoverflow.com/questions/57153428/r-plot-color-combinations-that-are-colorblind-accessible) is just one of many helpful resources for helping you pick a color pallet that is inclusive! 
+
 <figure>
   <img src="https://user-images.githubusercontent.com/78130420/181677484-a2ab4fb2-667f-4654-9218-95c064ba8296.png" alt="fig1">
-  <figcaption>Fig.1: An example of assigning node attributes. Note when referencing vertices use `V(networ object)` Tip: an easy way to create a new column: df$new_column_name <- 1</figcaption>
+  <figcaption>Fig.1: An example of assigning node attributes. Note when referencing vertices use V() Tip: an easy way to create a new column: df$new_column_name <- 1</figcaption>
 </figure>
 
 I also want to color the edges black between birds from the same site and blue between birds of different sites (Fig 2). This gets slightly trickier, but we are using the same logic here. First, I create a column in _graph_ called `site` (see line 118), then I create a list of birds from each site (lines 119-122). On line 125, I specify that I want all edges to be blue, but lines 127-130 I specify that I want edges between birds in the lists I just created to be black. 
 
 <figure>
   <img src="https://user-images.githubusercontent.com/78130420/181677669-735e4143-121c-4bb3-8ea7-757074cfa45d.png" alt="fig2">
-  <figcaption>Fig. 2: An example of assigning edge attributes. Note when referencing edges use `E(network object)`. `alpha()` allows me to set the opacity of the color. I like to make edges somewhat see through so you can tell where they overlap, and I think it is generally easier on the eyes when you have highly connected plots. It allows you to use a darker color without it looking too heavy.  </figcaption>
+  <figcaption>Fig. 2: An example of assigning edge attributes. Note when referencing edges use E(). alpha() allows me to set the opacity of the color. I like to make edges somewhat see through so you can tell where they overlap, and I think it is generally easier on the eyes when you have highly connected plots. It allows you to use a darker color without it looking too heavy.  </figcaption>
 </figure>
 
 **Now, I'm ready to plot! I'm using the igraph function `plot()`.**
@@ -54,5 +56,4 @@ First, I'm going to specify that I am plotting my network object, called _graph_
 </figure>
 
 I hope this was helpful! Remember, when you find yourself fighting with R and you just can't get something to work, Google it. Odds are someone has worked through a similiar problem and graciously posted their solution. Websites like [Stack Overflow](https://stackoverflow.com/) are extremely helpful for getting you started or finding inspiration. You can then adapt posted solutions to best serve you. This is exactly how I worked through _many_ issues. 
-  
-Lastly, pay attention to colors you are using, particularly for our color-blind people. [Here](https://stackoverflow.com/questions/57153428/r-plot-color-combinations-that-are-colorblind-accessible) is just one of many helpful resources for helping you pick a color pallet that is inclusive! 
+ 
