@@ -7,7 +7,7 @@ tags:
   - notes
   - learning
 ---
-As a graduate student, I teach undergraduate-level courses offered by my university. In the fall of 2021, I was a teaching assistant (TA) for [Analytical Tools for Behavior Information](http://hobsonresearch.com/index.php/biol2099-analytical-tools-for-behavior-information/) taught by my advisor. For someone, such as myself, just starting to scratch the surface of all that is R, this was an awesome experience. Guiding students through assignments helped me understand how to break down the language and logic behind code. I strengthened my own understanding of coding best practices, troubleshooting, and how to talk about code. 
+As a graduate student, I teach undergraduate-level courses offered by my university. In the fall of 2021, I was a teaching assistant (TA) for [Analytical Tools for Behavior Information](http://hobsonresearch.com/index.php/biol2099-analytical-tools-for-behavior-information/) taught by my advisor. For someone, such as myself, just starting to scratch the surface of all that is R, this was an awesome experience. Guiding students through assignments helped me understand how to break down the language and logic behind code. I strengthened my own understanding of **coding best practices, troubleshooting, and how to talk about code.** 
 
 **I want to share some of the things I learned about learning to code in R Studio** 
 
