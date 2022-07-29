@@ -27,6 +27,6 @@ You can also find a table of my posts!
 
 | Post title          | Tags   | Coding experience | Notes                                                              |
 | ------------      |--------| ------------------|------------------------------------------ |
-| [5 step framework](http://www.claireloconnell.com/posts/framework/)    | notes | Beginner | I present my 5 step framework for how I approach data analysis. I work through an example of I would import, clean, wrangle, summarize, and plot data. |
+| [5 step framework(]https://claireloconnell.github.io/posts/framework/ | notes | Beginner | I present my 5 step framework for how I approach data analysis. I work through an example of I would import, clean, wrangle, summarize, and plot data. |
 | [What I learned teaching R](http://www.claireloconnell.com/posts/lessons-learned)    | notes   | Beginner  | I talk about what I learned about teaching coding in R as I learn how to code in R. I give some advice for anyone looking to start coding. |
 |[ R packages and functions](http://www.claireloconnell.com/posts/2021/12/functionsandpackages/) | notes | Beginner | I share my way of thinking about functions, packages, and writing code. This post isn't necessarily a tutorial, rather a different perspective for anyone struggling to understand how R works. I hope this post will help you better understand the language. | 
