@@ -7,7 +7,7 @@ tags:
   - notes
   - learning
 ---
-As a graduate student, I teach undergraduate-level courses offered by my university. In the fall of 2021, I was a teaching assistant (TA) for [Analytical Tools for Behavior Information](http://hobsonresearch.com/index.php/biol2099-analytical-tools-for-behavior-information/) taught by my advisor. For someone, such as myself, just starting to scratch the surface of all that is R, this was an awesome experience. Guiding students through assignments helped me understand how to break down R language and the logic behind our code, and I strengthened my own understanding of coding best practices, troubleshooting, and how to talk about code. 
+As a graduate student, I teach undergraduate-level courses offered by my university. In the fall of 2021, I was a teaching assistant (TA) for [Analytical Tools for Behavior Information](http://hobsonresearch.com/index.php/biol2099-analytical-tools-for-behavior-information/) taught by my advisor. For someone, such as myself, just starting to scratch the surface of all that is R, this was an awesome experience. Guiding students through assignments helped me understand how to break down the language and logic behind code. I strengthened my own understanding of coding best practices, troubleshooting, and how to talk about code. 
 
 **I want to share some of the things I learned about learning to code in R Studio** 
 
@@ -31,7 +31,7 @@ It is very easy to get lost in a coding rabbit hole, so starting off with a plan
 
 Creating a Project, creates a folder that houses any data you will need and related scripts you create. This is a great way to organize files. I also like R Markdown files because you can incorporate writing and notes into your code and knit your files into a nice, neat PDF or html file. A major plus for me is that it is aesthically pleasing. Looking at huge blocks of code is a real eye sore, and creating an outline to break-up code blocks is not only helpful for organization, but it's much nicer to look at. 
 
-You should also annotate your code as you go! You can "comment out" codes with a `#` before any text. This means R won't try to run this code. I use comments to describe what each line of code does, so my future self or collaborators can understand what I am doing!
+You should also annotate your code as you go! You can "comment out" codes with a `#` before any text. This means R won't try to run this code. I use comments to describe what each line of code does, so my future self or collaborators can understand what I am doing! Never assume you will remember what you were doing later because you probably won't.
 
 Speaking of collaborators, online repositories, like [Github](https://github.com/) are helpful for sharing code! We use Github in the lab for sharing code within and across labs. Its also nice for storing back-ups. 
 
@@ -41,6 +41,6 @@ I noticed that organization was a huge pitfall for some students. It's very easy
 
 If possible, talk through your code and/or plan with someone. They might catch something you miss or give you some reassurance that you are on the right track! As my advisor likes to say, "nerd-snipe" someone! For me, this looks like sighing very loudly in my office until my lab mates kindly offer to help me troubleshoot. Sometimes I ask _"Does this make sense??"_ or I ask if someone has a moment to just listen to my goal and plan. Sometimes I draw what I want a graph or dataframe to look like to help get an idea of how to go from raw data to a final product. 
 
-My lab mates have been an invalable resource for me as I learn to code. They are at varying stages of their coding experiences and they have unique ways of thinking about how to approach a particular problem. We even created a Coding Club to brainstorm, troubleshoot a problem we might have, and to show off our code! I'd be lying if I said R didn't test my patience, but having a literal R support group has made all the difference! (Huge shoutout to Annemarie van der Marel, Grace Smith Vidaurre, Sanjay Prasher, Xavier Francis, and Chelsea Carminito, thanks guys!)
+My lab mates have been an invalable resource for me as I learn to code. They are at varying stages of their coding experiences and they have unique ways of thinking about how to approach a particular problem. We even created a Coding Club to brainstorm, troubleshoot a problem we might have, and to show off our code! I'd be lying if I said R didn't test my patience, but having a literal R support group has made all the difference! (Huge shoutout to Annemarie van der Marel, Grace Smith Vidaurre, Sanjay Prasher, and Xavier Francis, thanks guys!)
 
 As a TA, I got to see all of the creative solutions my students took to solve the same problem. Some were really clever - they were able to find shortcuts and tricks that I didn't see before. Sharing tips and tricks and talking through how to solve the problem was really helpful.  
