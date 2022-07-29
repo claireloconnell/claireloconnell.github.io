@@ -6,6 +6,8 @@ tags:
   - notes
   - resources
 ---
+Here is a collection of some useful websites I have come across as I learn to code! 
+
 Social Network Analysis Repository
 ======
 Monk parakeets are highly social and form individualized relationships with members of their colony. This means that the _presence, context, and strength_ of the relationship varies between pairs, or **dyads**. I use **social network analysis (SNA)** to visually represent parakeets (via **nodes**) their relationships (via **edges** that connect nodes) with others. SNA is a useful tool to analyze affiliative relationships, but I've quickly realized how overwhelming jumping to to SNA can be!
