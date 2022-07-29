@@ -1,7 +1,7 @@
 ---
 title: 'Custom layout'
 date: 2022-07-29
-permalink: /posts/2022/07/network-layout/
+permalink: /posts/2022/07/networklayout/
 tags:
   - notes
   - resources
