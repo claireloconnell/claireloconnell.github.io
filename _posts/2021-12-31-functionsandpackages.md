@@ -6,7 +6,7 @@ tags:
   - notes
   - resources
 ---
-When I first started to learn R, I really struggled to understand the structure of code. To me, it looked like a lot of technical lingo and random placement of terms I've never seen before. It wasn't until I had a break through that I began to understand the general structure and patterns to coding, so I want to share it with you all. 
+When I first started to learn R, I really struggled to understand the structure of code. To me, it looked like a lot of technical lingo and random placement of terms I've never seen before. It wasn't until I had a break through that I began to understand the **general structure and patterns to coding**, so I want to share it with you all. 
 
 **Warning:** This post is contains a bit of network lingo. If you are not somewhat familiar, I highly suggest checking out Dr. Dai Shizuka's [blog](https://dshizuka.github.io/networkanalysis/). It is extensive and _extremely_ helpful. I don't want to reinvent the wheel with more network tutorials. **My goal is to offer a different perspective on code and tutorials that could better help your understanding.**
 
