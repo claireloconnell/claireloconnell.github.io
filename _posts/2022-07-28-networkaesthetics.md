@@ -6,7 +6,7 @@ tags:
   - notes
   - resources
 ---
-**Here I describe some basic aesthetics, and I show you how I incorportate attributes to my networks. Huge shout out to Liz Hobson for showing me most of these tips!!**
+**Here I describe some basic aesthetics, and I show you how I incorportate attributes to my networks.** Huge shout out to Liz Hobson for showing me most of these tips!!
 
 Once you're comfortable going from a dataframe (whether it is an _edgelist_ or _adjacency matrix_) to a plot, it's time to start thinking about aethetics! In my opinion, this is the best and most frustrating part. It's fun because this is where your vision really comes together, and you can create a really beautiful network that is easy to interpret and visually appealing! However, it can be tricky forcing R to see your vision through. Thankfully, there are many packages and functions out there to help you out. You can use **igraph** or **ggraph** to plot networks. Which one you use somewhat depends on what you want to accomplish, but for this tutorial, I will be using igraph. 
 
