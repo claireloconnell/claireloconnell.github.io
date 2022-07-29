@@ -24,7 +24,7 @@ I joined the [Hobson Lab](http://hobsonresearch.com/) at the University of Cinci
 
 **Check out my social network analysis blog!** 
 ======
-Coding in R is an essential skill for behavioral ecologists, but if you're like me, it's not exactly intuitive and can be overwhelming! I created a blog to compile all of the resources I use to help me learn to code, and I supplement these resources with my notes. I hope to update my blog as I learn, so it can be a helpful resource for anyone at any stage looking to learn analytical skills in R. Particularly skills for behavioral analyses like social network analysis. [Here](http://www.claireloconnell.com/posts/2021/12/SNArepository/) is a good place to start.
+Coding in R is an essential skill for behavioral ecologists, but if you're like me, it's not exactly intuitive and can be overwhelming! I created a blog to compile all of the resources I use to help me learn to code, and I supplement these resources with my notes. I hope to update my blog as I learn, so it can be a helpful resource for anyone at any stage looking to learn analytical skills in R. Particularly skills for behavioral analyses like social network analysis. [Here](http://claireloconnell.github.io/posts/2021/12/SNArepository/) is a good place to start.
 
 If you have any suggestions, would like to see particular content, or would like to contribute yourself, feel free to reach out! You can find my email and twitter on the left!
 
