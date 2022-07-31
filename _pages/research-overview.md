@@ -8,7 +8,7 @@ author_profile: true
 ## Choose your friends wisely!
 Broadly, I am interested in the relationship between **sociality and cognition** in animal socieites. In the Hobson Lab, we study **social infomration**. We aim to test what animals know about their social environments, how they gain social information, and how social information informs future social decisions. 
 
-**I am investigating the role of affiliation and social support in forming and maintaining social structure in monk parakeets.** I want to know what information about monk parakeet affiliative relationships are important and how their relationships may influence future social decisions. 
+**I am investigating the role of affiliation and social support in forming and maintaining social structure in monk parakeets.** I am interested in understanding what individuals know about their affiliative social environment and how social information shapes future affiliative interactions.
 
 Affiliative relationships can have substantial effects on individual fitness and group stability by reducing stress [(Young et al 2014)](https://www.pnas.org/doi/full/10.1073/pnas.1411450111) and providing agonsitic aid [(Strauss & Holekamp 2019)](https://www.pnas.org/doi/full/10.1073/pnas.1810384116). For many species, like [spotted hyenas](https://www.pnas.org/doi/full/10.1073/pnas.1810384116#sec-3) (_Crocuta crocuta_) and [savannah baboons](https://www.sciencedirect.com/science/article/pii/S0003347203003634?via%3Dihub) (_Papio cynocephalus_) social relationships and social support can bolster an individuals ability to gain and maintain rank within a dominance hierarchy.
 
