@@ -31,7 +31,7 @@ Monk parakeets fight  _constantly_ over perches, food, and nesting material. We 
 
 <figure>
   <img src="https://user-images.githubusercontent.com/78130420/182042286-a4c24782-c685-4a99-904e-0bc76e953fea.jpg" alt="Aggression">
-  <figcaption>A bird displacing another out of a water bath.</figcaption>
+  <figcaption>A failed attempt at affiliation results in aggression.</figcaption>
 </figure>
 
 Monk parakeets are an interesting species to study from a cognitive perspective because they share several hallmarks of intelligence in primates including long developmental periods and lifespans, large relative brain size, and large complex societies with highly individualized relationships.
