@@ -6,7 +6,7 @@ tags:
   - notes
   - resources
 ---
-If you have been playing around with network aesthetics, you have probably spend some time trying to figure out **what layout works best to represent your data**. After all, network's can be a great way to represent many complex relationships in a meaningful and digestable way. So, this step should not be underestimated! Thankfully, igraph has several [layouts](https://r-graph-gallery.com/247-network-chart-layouts.html) you can use. 
+If you have been playing around with network aesthetics, you have probably spend some time trying to figure out **what layout works best to represent your data**. After all, networks can be a great way to represent many complex relationships in a meaningful and digestable way. So, this step should not be underestimated! Thankfully, igraph has several [layouts](https://r-graph-gallery.com/247-network-chart-layouts.html) you can use. 
 
 These layouts might not be _exactly_ what you're looking for. No worries, you can create a customizable network layout! I'm going to walk you through how I created a custom layout! **Fair warning:** it is a bit cumbersome and not the most efficient code (alternatively, I would suggest using a forloop), but it works! Please proof and fully test all codes for your own use.
 
