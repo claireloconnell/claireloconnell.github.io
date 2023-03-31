@@ -8,7 +8,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Claire L. O'Connell"
-description              : &description "PhD student in the Hobson Lab at the University of Cincinnati"
+description              : &description "PhD canidate in the Hobson Lab at the University of Cincinnati"
 url                      : "https://claireloconnell.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "claireloconnell.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 author: 
   name             : "Claire L. O'Connell"
   avatar           : "Profilepic.png"
-  bio              : "I am PhD student interested in the relationship between affiliation and social structure"
+  bio              : "I am PhD canidate interested in the relationship between affiliation and social structure"
   location         : "Cincinnati, OH"
   employer         : "Hobson Lab" 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@natural_habits"
+  twitter          : "@clairakeet"
   vine             :
   weibo            :
   xing             :
