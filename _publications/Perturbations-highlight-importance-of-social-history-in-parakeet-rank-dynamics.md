@@ -3,7 +3,7 @@ title: "Perturbations highlight importance of social history in parakeet rank dy
 collection: publications
 permalink: /publication/Perturbations-highlight-importance-of-social-history-in-parakeet-rank-dynamics
 excerpt: '**We performed a series of social perturbations to find what determines dominance rank in monk parakeets. We found that 1. bodyweight is not associated with rank, 2. reintroduced birds were not able to regain their rank following reintroduction, and 3. top-ranked birds experienced greater relative rank losses. These results, in addition to our previous work, suggests that social history is important for structuring monk parakeet dominance hierarhcies**'
-date: 2020-12-20
+date: 2023-03-31
 venue: 'Behavioral Ecology'
 paperurl: '[https://academic.oup.com/cz/article/67/1/101/6050802](https://academic.oup.com/beheco/advance-article-abstract/doi/10.1093/beheco/arad015/7093242?redirectedFrom=fulltext&login=false)'
 citation: 'Annemarie van der Marel, Xavier Francis, Claire L O’Connell, Cesar O Estien, Chelsea Carminito, Virginia Darby Moore, Nickolas Lormand, Bryan M Kluever, Elizabeth A Hobson, Perturbations highlight importance of social history in parakeet rank dynamics, Behavioral Ecology, 2023;, arad015, https://doi.org/10.1093/beheco/arad015'
