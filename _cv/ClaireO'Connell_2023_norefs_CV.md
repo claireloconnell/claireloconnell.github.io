@@ -8,4 +8,4 @@ redirect_from:
   - /cv.html
 ---
 
-[Check out my CV here!](http://claireloconnell.github.io/files/ClaireO'Connell_2023_no refs_CV.pdf)
+[Check out my CV here!](http://claireloconnell.github.io/files/ClaireO'Connell_2023_norefs_CV.pdf)
