@@ -9,8 +9,8 @@ author_profile: true
 
 Not unlike most parrot (order Psittaciformes) species, monk parakeets are incredibly social. Monk parakeets typically form strong affiliative relationships with 1-2 individuals. From our observations, it is clear that these affiliative realtionships are a significant aspect of monk parakeet's social lives. They spend a lot of time perched, preening, and foraging with their preferred partner.
 
-<figure>
-  <img src="https://user-images.githubusercontent.com/78130420/229232372-28cbf5af-635c-4937-9700-ad1ad83c6401.JPG" alt="Affiliation">
+<figure align="center">
+  <img src="https://user-images.githubusercontent.com/78130420/229232372-28cbf5af-635c-4937-9700-ad1ad83c6401.JPG" alt="Affiliation" width="400" height="300">
   <figcaption>Allopreening is common between partners! It helps strengthen their social bond and can function to remove ectoparasites. We mark birds with a unique three color combination to easily identify birds during experiments.</figcaption>
 </figure>
 
@@ -24,8 +24,8 @@ I am exploring themes of affiliative relationship formation, social resilience, 
 
 Monk parakeets _constantly_ fight over perching spots, food, and nesting material. We record the winners and loers of these aggressive contests to quantify a dominance hierarchy which describes the relative fighting ability of group members. Typically, higher-ranking animals are better able to defend resources like food and mates. 
 
-<figure>
-  <img src="https://user-images.githubusercontent.com/78130420/229232610-cd6760f4-164a-44bd-8be3-ac2daf7f4738.JPG" alt="Aggression">
+<figure align="center">
+  <img src="https://user-images.githubusercontent.com/78130420/229232610-cd6760f4-164a-44bd-8be3-ac2daf7f4738.JPG" width="400" height="300" alt="Aggression">
   <figcaption>Monk parakeets will lash out with open beaks to displace others from perching locations.</figcaption>
 </figure>
 
