@@ -4,8 +4,7 @@ title: "Research Overview"
 permalink: /researchoverview/
 author_profile: true
 ---
-## Choose your friends wisely!
-**I am investigating how monk parakeets form affiliative, or friendly, relationships and how these relationships may provide social support.** 
+**I am investigating how monk parakeets balance the risks and benefits of affiliating as they form novel and recover fractured relationships. I am also investigating how social support may benefit individuals** 
 
 <figure align="center">
 <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/9c42cf02-f79e-4dd3-9d74-7f24a3ff1654" alt="Fitness benefits" >
@@ -25,6 +24,8 @@ Not unlike most parrot (order Psittaciformes) species, monk parakeets are incred
 
 However, sociality comes at a cost. Individuals, for example, are at an increased risk for disease transmission ([Weber et al., 2013](https://linkinghub.elsevier.com/retrieve/pii/S0960982213011238)), or receiving aggression if the affiliation is not welcomed or occurs too suddenly, and investing time and energy into others can be costly, even lethal ([Blumstein et al., 2013](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.1934)).  
 
+The risks of initiating affiliation may be exacerbated when social uncertainty is high, like when interacting with strangers, and individuals might not have accurate or updated information about their potential partner's reliability, propensity to affiliate, or threat level in case of aggression. 
+
 <figure align="center">
 <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/7734cc2a-04e6-4998-9966-3dd44d4b2a92" alt="Risky">
 </figure>
@@ -35,12 +36,18 @@ Monk parakeets _constantly_ fight over perching spots, food, and nesting materia
 <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/0a019fc8-94c4-4720-8119-f1f08bacb7dd" alt="Risky">
 </figure>
 
+Despite the risks, animals seem motivated to form novel relationships with strangers (introduced via fission-fusion dynamics or stochastic demographic events) or recover fractured relationships following social and environmental disturbances ([Carter et al., 2017](https://royalsocietypublishing.org/doi/10.1098/rsbl.2017.0112); [Firth et al., 2017](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.0299)). 
+
+However, largely due to logistical issues with studying animals in the wild, we do not yet know how individuals balance the risks and benefits of developing relationships.
+
 <figure align="center">
 <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/6d07e822-bcb0-43ad-86b6-c0b7fe75d1bd" alt="Balance">
 </figure>
 
+Testing the waters & Raising the Stakes hypothesis 
+
 <figure align="center">
-<img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/6c6a5a4c-733d-460c-833e-5f0387922f6a" alt="Balance">
+<img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/6c6a5a4c-733d-460c-833e-5f0387922f6a" alt="compt">
 </figure>
 
 
