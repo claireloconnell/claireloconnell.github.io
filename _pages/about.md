@@ -17,12 +17,15 @@ _**Welcome to my website! Here you can find more information about myself and my
 About me
 ======
 
-I joined the [Hobson Lab](http://hobsonresearch.com/) at the University of Cincinnati in the fall of 2020 to explore how monk parakeets form and recover affiliative or friendly relationships and identify how individuals may benefit them. Ultimately, I aim to understand if and how animals optimize their social investments depending on their social circumstances. My long-term goal is to incorporate information about individuals' ability to form and maintain relationships into conservation management plans.  
+I joined the [Hobson Lab](http://hobsonresearch.com/) at the University of Cincinnati in the fall of 2020 to explore how monk parakeets form and recover affiliative or friendly relationships and identify how individuals may benefit them. 
 
 <figure>
   <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/30ca2c3d-011d-4133-8455-9a2d3d06cc74"
  alt="Affiliation">
 </figure>
+
+Ultimately, I aim to understand if and how animals optimize their social investments depending on their social circumstances. My long-term goal is to incorporate information about individuals' ability to form and maintain relationships into conservation management plans.  
+
 
 **Check out my social network analysis blog!** 
 ======
