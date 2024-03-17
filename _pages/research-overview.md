@@ -4,7 +4,9 @@ title: "Research Overview"
 permalink: /researchoverview/
 author_profile: true
 ---
-**I am investigating how monk parakeets balance the risks and benefits of affiliating as they form novel and recover fractured relationships. I am also investigating how social support may benefit individuals** 
+<figure align="center">
+<img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/fe0652f1-bea2-499f-a6a6-f923da4da93f" alt="Research aims" >
+</figure>
 
 <figure align="center">
 <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/9c42cf02-f79e-4dd3-9d74-7f24a3ff1654" alt="Fitness benefits" >
@@ -13,42 +15,80 @@ author_profile: true
 For many social species, the presence and strength of affiliative relationships can directly and indirectly affect individual fitness and group cohesion. Affiliative relationships can, for example, increase longevity and reproductive success ([Archie et al., 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4173677/); [Cameron et al., 2009](https://www.pnas.org/doi/10.1073/pnas.0900639106); [Maldonado-Chaparro et al., 2021](https://www.sciencedirect.com/science/article/pii/S0003347221003110#bib3)), increase the likelihood of social support in agonistic aid ([Strauss and Holekamp 2019](https://www.pnas.org/doi/10.1073/pnas.1810384116)), improve coordination or cooperation ([Riehl & Strong 2018](https://pubmed.ncbi.nlm.nih.gov/29643212/)), or buffer individuals from harmful effects of social and environmental stressors ([Young et al., 2014](https://www.pnas.org/doi/abs/10.1073/pnas.1411450111); [Jacoby et al., 2010](https://academic.oup.com/beheco/article/21/4/808/249267)). 
 
 <figure align="center">
-<img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/7b14d239-d151-43a3-b659-3253e8a2d89a" alt="Risky">
+<img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/f8ac3ffb-ed80-45a2-b86f-a82999022972" alt="Risky">
 </figure>
 
-Not unlike most parrot (order Psittaciformes) species, monk parakeets are incredibly social. Monk parakeets typically form strong affiliative relationships with 1-2 individuals. From our observations, it is clear that these affiliative relationships are a significant aspect of monk parakeet's social lives. They spend a lot of time perched, preening, and foraging with their preferred partner.
+Not unlike most parrot (order Psittaciformes) species, monk parakeets are incredibly social. Monk parakeets typically form strong affiliative relationships with 1-2 individuals. From our observations, it is clear that these affiliative relationships are a significant aspect of monk parakeet's social lives. They spend a lot of time perched, allopreening (social grooming), and foraging with their preferred partner.
 
 <figure align="center">
-<img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/6b8f97c9-1630-474a-bc07-9922a0e405a6" alt="Risky">
+<img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/6b8f97c9-1630-474a-bc07-9922a0e405a6" alt="Monk affiliation">
+</figure>
+<figure align="center">
+<img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/c60c1dd7-a08a-4059-a389-b0353cd301e0" alt="Affiliation types">
 </figure>
 
-However, sociality comes at a cost. Individuals, for example, are at an increased risk for disease transmission ([Weber et al., 2013](https://linkinghub.elsevier.com/retrieve/pii/S0960982213011238)), or receiving aggression if the affiliation is not welcomed or occurs too suddenly, and investing time and energy into others can be costly, even lethal ([Blumstein et al., 2013](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.1934)).  
-
-The risks of initiating affiliation may be exacerbated when social uncertainty is high, like when interacting with strangers, and individuals might not have accurate or updated information about their potential partner's reliability, propensity to affiliate, or threat level in case of aggression. 
 
 <figure align="center">
-<img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/7734cc2a-04e6-4998-9966-3dd44d4b2a92" alt="Risky">
+<img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/efa1dc8c-5da0-4190-adf7-e3f1c47f3ac0" alt="Risky">
 </figure>
 
-Monk parakeets _constantly_ fight over perching spots, food, and nesting material. We record the winners and losers of these aggressive contests to quantify a dominance hierarchy that describes the relative fighting ability of group members.
+However, sociality comes at a cost, and animals often have to compete with the same group members they affiliate with. For example, by associating with others, individuals are at an increased risk for disease transmission ([Weber et al., 2013](https://www.sciencedirect.com/science/article/pii/S0960982213011238?via%3Dihub)). Additionally, initiating affiliation is inherently risky! If affiliation is not welcomed or occurs too suddenly, individuals may receive aggression, and investing time and energy into others can be costly, even lethal ([Blumstein et al., 2013](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.1934)). 
 
 <figure align="center">
-<img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/0a019fc8-94c4-4720-8119-f1f08bacb7dd" alt="Risky">
+<img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/7734cc2a-04e6-4998-9966-3dd44d4b2a92" alt="Costly affiliation examples">
 </figure>
 
-Despite the risks, animals seem motivated to form novel relationships with strangers (introduced via fission-fusion dynamics or stochastic demographic events) or recover fractured relationships following social and environmental disturbances ([Carter et al., 2017](https://royalsocietypublishing.org/doi/10.1098/rsbl.2017.0112); [Firth et al., 2017](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.0299)). 
+Monk parakeets _constantly_ fight over perching spots, food, and nesting material. We record the winners and losers of these aggressive contests to quantify a dominance hierarchy that describes the relative fighting ability of group members. Check out my lab mates, [Xavier Francis](https://scholar.google.com/citations?user=rvQ7c6YAAAAJ&hl=en) and [Dr. Annemarie van der Marel](https://avdmarel.wixsite.com/annemarievdmarel), for more information about monk parakeet aggression!
 
-However, largely due to logistical issues with studying animals in the wild, we do not yet know how individuals balance the risks and benefits of developing relationships.
+<figure align="center">
+<img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/45aa3112-9f0a-4046-8c07-7e7cd712c775" alt="Monk aggression">
+</figure>
+
+Deciding who to affiliative with, what to invest, and when can be tricky in and of itself, and stochastic demographic events, like births, deaths, immigration, and emigration, as well as daily fluctuations in group composition and size, can further exacerbate the risks of affiliating. 
+
+Social instability can fracture existing relationships or introduce strangers. In this case, social uncertainty is high, and individuals might not have accurate or updated information about their potential partner's reliability, propensity to affiliate, or threat level in case of aggression. Without this information, the risks of affiliating may be exacerbated.
+
+**This means that group-living animals, like monk parakeets, need to navigate complex social environments!**
 
 <figure align="center">
 <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/6d07e822-bcb0-43ad-86b6-c0b7fe75d1bd" alt="Balance">
 </figure>
 
-Testing the waters & Raising the Stakes hypothesis 
+Knowing who your group mates are, and whether they are foes, reliable friends, or unreliable friends, can be extremely helpful information to have when deciding whether to interact with them, in what context, and how often. Establishing familiarity or trust, through direct experiences ([Chaine et al., 2018](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13128)) or indirectly through the observation of others ([Tibbets et al., 2020](https://www.cell.com/current-biology/pdfExtended/S0960-9822(20)30740-5)), with potential affiliative partners could be important for mitigating risks of exploitation or injury.
+
+Research from the Hobson Lab demonstrates that  monk parakeets' dominance rank is an outcome of past interactions and memory rather than based on individual characteristics, like relative size or badges of status ([van der Marel et al., 2023](https://academic.oup.com/beheco/article/34/3/457/7093242)). This indicates that monk parakeets incorporate their previous experiences and the outcomes of their group mates' fights to inform future agonistic social decisions. 
+
+
+
+
+
+
+
+
+Animals may experience this social uncertainty often!  It is important that know how animals navigate social complexity to draw conclusions about social competency. 
+
+
+
+
+  
 
 <figure align="center">
 <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/6c6a5a4c-733d-460c-833e-5f0387922f6a" alt="compt">
 </figure>
 
+Socially competent animals should optimize their affiliative social decisions based on previous experiences. Animals may _test the waters_ or _raise the stakes_ ([Carter et al., 2020](https://www.sciencedirect.com/science/article/pii/S0960982220300993)).
 
+
+
+
+
+
+
+
+Successfully navigating dynamic social landscapes 
+[Carter et al., 2017](https://royalsocietypublishing.org/doi/10.1098/rsbl.2017.0112)
+
+Largely due to logistical issues with studying animals in the wild, studying relationship formation has been difficult and we do not yet know how individuals balance the risks and benefits of developing relationships for many species. New technology like, customizable apps ([van der Marel et al., 2021](https://onlinelibrary.wiley.com/doi/10.1111/eth.13251)), RFID readers ([Firth et al., 2017](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.0299)), and AI detection software ([Cheema & Anand 2017](https://link.springer.com/chapter/10.1007/978-3-319-71273-4_3)) in combination with robust computational tools, like social network analysis [Brask et al., 2021](https://academic.oup.com/comnet/article/9/2/cnab001/6295425), offer an exciting opportunity to explore the social lives of animals. 
+
+Check out my blog for more information about **monk parakeets** and how **animal social behavior can have important consequences for conservation**. 
 
