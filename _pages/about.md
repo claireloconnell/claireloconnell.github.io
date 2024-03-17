@@ -7,8 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<figure>
+  <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/c8dd2dd5-2a87-4d28-8364-ed56efd7c87f"
+ alt="Logo">
+</figure>
+
 _**Welcome to my website! Here you can find more information about myself and my research.**_
-![Screenshot (63)](https://user-images.githubusercontent.com/78130420/147525372-b0620ab1-32fd-4d8e-9e41-7a59be4ebdc1.png)
 
 About me
 ======
@@ -16,11 +20,9 @@ About me
 I joined the [Hobson Lab](http://hobsonresearch.com/) at the University of Cincinnati in the fall of 2020 to explore how monk parakeets form and recover affiliative or friendly relationships and identify how individuals may benefit them. Ultimately, I aim to understand if and how animals optimize their social investments depending on their social circumstances. My long-term goal is to incorporate information about individuals' ability to form and maintain relationships into conservation management plans.  
 
 <figure>
-  <img src="https://user-images.githubusercontent.com/78130420/181634617-dba0041a-1016-4e38-9eb1-02ebeb39f629.JPG"
+  <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/30ca2c3d-011d-4133-8455-9a2d3d06cc74"
  alt="Affiliation">
-  <figcaption>Purple (PPP) allopreening GOO.</figcaption>
 </figure>
-
 
 **Check out my social network analysis blog!** 
 ======
