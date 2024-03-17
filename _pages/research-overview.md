@@ -27,21 +27,20 @@ For many social species, the presence and strength of affiliative relationships 
 <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/efa1dc8c-5da0-4190-adf7-e3f1c47f3ac0" alt="Risky">
 </figure>
 
-Sociality comes at a cost, and animals often have to compete with the same group members they affiliate with. For example, by associating with others, individuals are at an increased risk for disease transmission ([Weber et al., 2013](https://www.sciencedirect.com/science/article/pii/S0960982213011238?via%3Dihub)). Additionally, **initiating affiliation is inherently risky!** If affiliation is not welcomed or occurs too suddenly, individuals may receive aggression, and investing time and energy into others can be costly, even lethal ([Blumstein et al., 2013](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.1934)). 
+Sociality comes at a cost, and animals often have to compete with the same group members they affiliate with. For example, by associating with others, individuals are at an increased risk for disease transmission ([Weber et al., 2013](https://www.sciencedirect.com/science/article/pii/S0960982213011238?via%3Dihub)). Additionally, **initiating affiliation is inherently risky!** If affiliation is not welcomed or occurs too suddenly, individuals may receive aggression, and investing time and energy into others can be costly, even lethal ([Blumstein et al., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.1934)). 
 
 <figure align="center">
 <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/7734cc2a-04e6-4998-9966-3dd44d4b2a92" alt="Costly affiliation examples">
 </figure>
 
-**Monk parakeets _constantly_ fight over perching spots, food, and nesting material. We record the winners and losers of these aggressive contests to quantify a dominance hierarchy that describes the relative fighting ability of group members. 
+**Monk parakeets _constantly_ fight over perching spots, food, and nesting material. We record the winners and losers of these aggressive contests to quantify a dominance hierarchy that describes the relative fighting ability of group members.** 
 
 Research from the Hobson Lab demonstrates that  monk parakeets' dominance rank is an outcome of past interactions and memory rather than based on individual characteristics, like relative size or badges of status ([van der Marel et al., 2023](https://academic.oup.com/beheco/article/34/3/457/7093242)). These results indicate that monk parakeets incorporate their previous experiences to inform future agonistic social decisions.
-
-Check out my lab mates, [Xavier Francis](https://scholar.google.com/citations?user=rvQ7c6YAAAAJ&hl=en) and [Dr. Annemarie van der Marel](https://avdmarel.wixsite.com/annemarievdmarel), for more information about monk parakeet aggression!**
 
 <figure align="center">
 <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/45aa3112-9f0a-4046-8c07-7e7cd712c775" alt="Monk aggression">
 </figure>
+Check out my lab mates, [Xavier Francis](https://scholar.google.com/citations?user=rvQ7c6YAAAAJ&hl=en) and [Dr. Annemarie van der Marel](https://avdmarel.wixsite.com/annemarievdmarel), for more information about monk parakeet aggression!
 
 **Group-living animals, like monk parakeets, need to navigate complex social environments!**
 
@@ -50,7 +49,7 @@ Check out my lab mates, [Xavier Francis](https://scholar.google.com/citations?us
 </figure>
 
 ## Relationship Formation
-**To investigate how animals optimize their affiliative decision-making during novel relationships, we introduced known strangers (feral birds from geographically distinct sites) into a flight pen. We spent several weeks recording all spatial associations, and aggressive and affiliative interactions.**
+**To investigate how monk parakeets optimize their affiliative decision-making during novel relationships, we introduced known strangers (feral birds from geographically distinct sites) into a flight pen. We spent several weeks recording all spatial associations, and aggressive and affiliative interactions.**
 
 <figure align="center">
 <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/f5489658-71e4-4496-82c6-caea99656560" alt="Experimental design">
@@ -71,23 +70,25 @@ Deciding who to affiliative with, what to invest, and when can be tricky in and 
 
 Social instability can fracture existing relationships or introduce strangers. In this case, social uncertainty is high, and individuals might not have accurate or updated information about their potential partner's reliability, propensity to affiliate, or threat level in case of aggression. Without this information, the risks of affiliating may be exacerbated.
 
+**To investigate how monk parakeets may recover fractured relationships, we temporarily removed individuals from their social group and observed how abandoned partners and reintroduced birds recovered relationships.**
+
+To recover relationships and minimize the risk of defection, monk parakeets may "Raise the Stakes" of affiliative behaviors ([Carter et al., 2020](https://www.sciencedirect.com/science/article/pii/S0960982220300993)).
 
 Largely due to logistical issues with studying animals in the wild, the nuances of relationship formation and recovery has been difficult to assess for many species. New technology like, customizable apps ([van der Marel et al., 2021](https://onlinelibrary.wiley.com/doi/10.1111/eth.13251)), RFID readers ([Firth et al., 2017](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.0299)), and AI detection software ([Cheema & Anand 2017](https://link.springer.com/chapter/10.1007/978-3-319-71273-4_3)) in combination with robust computational tools, like social network analysis [Brask et al., 2021](https://academic.oup.com/comnet/article/9/2/cnab001/6295425), offer an exciting opportunity to explore the social lives of animals. 
 
 ## Social Resilience
 More coming soon!
 In the meantime, check out some of my favorite papers:
-1. Social bet-hedging in vampire bats [Carter et al., 2017](https://royalsocietypublishing.org/doi/10.1098/rsbl.2017.0112)
+1. Social bet-hedging in vampire bats ([Carter et al., 2017](https://royalsocietypublishing.org/doi/10.1098/rsbl.2017.0112))
 2. Social alliances improve rank and fitness in convention-based societies ([Strauss and Holekamp 2019](https://www.pnas.org/doi/10.1073/pnas.1810384116))
-3. Responses to social and environmental stress are attenuated by strong male bonds in wild macaques ([Young et al., 2014](https://www.pnas.org/doi/abs/10.1073/pnas.1411450111)
+3. Responses to social and environmental stress are attenuated by strong male bonds in wild macaques ([Young et al., 2014](https://www.pnas.org/doi/abs/10.1073/pnas.1411450111))
 4. Social Familiarity and Spatially Variable Environments Independently Determine Reproductive Fitness in a Wild Bird ([Gokcekus et al., 2023](https://doi.org/10.1086/724382))
 
 <figure align="center">
 <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/6c6a5a4c-733d-460c-833e-5f0387922f6a" alt="compt">
 </figure>
 
-Socially competent animals should optimize their affiliative social decisions based on previous experiences. 
-
-
-Check out my blog for more information about **monk parakeets** and how **animal social behavior can have important consequences for conservation**. 
-
+<figure align="center">
+<img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/2531574b-46d0-44d4-b073-14ec1bf5c648" alt="compt">
+</figure>
+Great question! Check out my blog for more information about **monk parakeets** and how **animal social behavior can have important consequences for conservation**.
