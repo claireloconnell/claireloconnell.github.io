@@ -22,7 +22,7 @@ Ultimately, I aim to better understand social processes that underlie animals' a
 <figure>
   <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/a9e1e755-a4b5-42b6-b7f1-65403d65376e"
  alt="Affiliation">
-  <figcaption> Affiliative partners allopreening (social grooming) one another.</figcaption>
+  <figcaption> Affiliative partners allopreening (grooming) one another.</figcaption>
 </figure>
 
 My long-term goal is to help bridge the gap between behavioral ecologists and conservationists and enhance management strategies for protecting and conserving social species by applying conceptual frameworks and robust analytical tools to actionable conservation objectives. You can read more about my research interests, monk parakeets, and social behavior in conservation in my [Research Overview](https://claireloconnell.github.io/researchoverview/)
