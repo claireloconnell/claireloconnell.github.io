@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Welcome to my website! Here you can find more information about myself and my research."
 excerpt: "Research interests"
 author_profile: true
 redirect_from: 
@@ -11,8 +11,6 @@ redirect_from:
   <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/93807328-187e-4398-83d1-572da1a232a7"
  alt="Logo">
 </figure>
-
-_**Welcome to my website! Here you can find more information about myself and my research.**_
 
 About me
 ======
