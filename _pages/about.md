@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <figure>
-  <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/68c3bad4-7f79-431b-8605-00944001433e"
+  <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/68c3bad4-7f79-431b-8605-00944001433e" width="710" height="210"
  alt="Logo">
 </figure>
 
