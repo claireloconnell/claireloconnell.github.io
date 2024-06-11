@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <figure>
-  <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/c8dd2dd5-2a87-4d28-8364-ed56efd7c87f"
+  <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/93807328-187e-4398-83d1-572da1a232a7"
  alt="Logo">
 </figure>
 
@@ -17,7 +17,7 @@ _**Welcome to my website! Here you can find more information about myself and my
 About me
 ======
 
-I joined the [Hobson Lab](http://hobsonresearch.com/) at the University of Cincinnati in the fall of 2020 to explore how monk parakeets form and recover affiliative or friendly relationships and identify how individuals may benefit them. 
+I joined the [Hobson Lab](http://hobsonresearch.com/) at the University of Cincinnati in the fall of 2020 to explore how monk parakeets form and recover affiliative (friendly) relationships and to identify how individuals may benefit from maintaining bonds. 
 
 <figure>
   <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/30ca2c3d-011d-4133-8455-9a2d3d06cc74"
