@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 <figure>
-  <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/68c3bad4-7f79-431b-8605-00944001433e" width="710" height="210"
+  <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/68c3bad4-7f79-431b-8605-00944001433e" width="700" height="200"
  alt="Logo">
 </figure>
 
 About me
 ======
 
-I joined the [Hobson Lab](http://hobsonresearch.com/) at the University of Cincinnati in the fall of 2020 to research how monk parakeets balance the risks and benefits of interacting during affiliative relationship formation, recovery, and maintenance. This includes understanding how pairs may  minimize the risk of aggression from potential partners when initiating affiliation and how the presence and strength of affiliative ties may buffer individuals from the negative effects of social disturbances (a process called _social buffering_) or provide agonistic aid during contests.
-
-Ultimately, I aim to better understand social processes that underlie animals' ability to flexibly adapt to dynamic environments, or _social resilience_.
+I joined the [Hobson Lab](http://hobsonresearch.com/) at the University of Cincinnati in the fall of 2020 to research how monk parakeets initiate novel relationships, recover fractured ties, and how these relationships may provide social support. Ultimately, I aim to better understand social processes that underlie animals' ability to flexibly adapt to dynamic environments, or _social resilience_.
 
 <figure>
   <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/a9e1e755-a4b5-42b6-b7f1-65403d65376e"
