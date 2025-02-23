@@ -2,9 +2,9 @@
 title: "Familiarity with social partners influences affiliative interactions but not spatial associations"
 collection: talks
 type: "Talk"
-permalink: /talks/2024_conferences
+permalink: /talks/2024-10-10-conferences/
 venue: "2024 ABS, AOS, & ISBE"
-date: 2024
+date: 2024-10-10
 location: "London, ON, Estes Park, CO, & Melbourne, Australia"
 ---
 
