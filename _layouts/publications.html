@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h1>Publications</h1>
+
+{% if author.googlescholar %}
+<p>You can also find my articles on <u><a href="https://scholar.google.com/citations?user=qMVBRjMAAAAJ&hl=en">my Google Scholar profile</a>.</u></p>
+{% endif %}
+
+<ol class="publications-list" reversed>
+{% for post in site.publications reversed %}
+  <li>
+    <strong><a href="{{ post.url }}">{{ post.title }}</a></strong><br>
+    {{ post.citation | markdownify }}
+  </li>
+{% endfor %}
+</ol>
