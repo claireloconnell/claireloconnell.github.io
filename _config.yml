@@ -8,7 +8,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Claire L. O'Connell"
-description              : &description "PhD canidate in the Hobson Lab at the University of Cincinnati"
+description              : &description "PhD"
 url                      : "https://claireloconnell.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "claireloconnell.github.io"
@@ -47,6 +47,10 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+ 
+# Use the official Minimal Mistakes remote theme
+remote_theme: "mmistakes/minimal-mistakes@master"
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -80,7 +84,7 @@ analytics:
 author: 
   name             : "Claire L. O'Connell"
   avatar           : "Profilepic.png"
-  bio              : "PhD candidate investigating affiliative relationship formation and recovery and social resilience"
+  bio              : "PhD"
   location         : "Cincinnati, OH"
   employer         : "Hobson Lab" 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -268,11 +272,13 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 # Plugins
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
-  - jekyll-redirect-from
+  - jekyll-seo-tag
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-gistsf
+#  - jekyll-feed
+#  - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
