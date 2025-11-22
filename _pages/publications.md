@@ -15,8 +15,13 @@ collection: publications
 <ul class="publications-list">
 {% for post in site.publications reversed %}
   <li>
+    {% include archive-single.html %}
+{% endfor %}
+<ol class="publications-list">
+{% for post in site.publications reversed %}
+  <li>
     <strong><a href="{{ post.url }}">{{ post.title }}</a></strong><br>
     {{ post.citation | markdownify }}
   </li>
 {% endfor %}
-</ul>
+</ol>
