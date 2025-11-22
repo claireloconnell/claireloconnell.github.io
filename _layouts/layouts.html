@@ -1,0 +1,15 @@
+---
+layout: home
+---
+
+<ul class="publications-list">
+  {% for publication in site.publications %}
+    <li>
+      <strong>
+        <a href="{{ publication.url }}">{{ publication.title }}</a>
+      </strong>
+      <br>
+      {{ publication.citation | markdownify }}
+    </li>
+  {% endfor %}
+</ul>
