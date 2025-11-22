@@ -12,12 +12,7 @@ collection: publications
 
 {% include base_path %}
 
-<ul class="publications-list">
-{% for post in site.publications reversed %}
-  <li>
-    {% include archive-single.html %}
-{% endfor %}
-<ol class="publications-list">
+<ol class="publications-list" reversed>
 {% for post in site.publications reversed %}
   <li>
     <strong><a href="{{ post.url }}">{{ post.title }}</a></strong><br>
