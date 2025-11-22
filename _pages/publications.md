@@ -7,11 +7,16 @@ collection: publications
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=qMVBRjMAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=qMVBRjMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
 
+<ul class="publications-list">
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  <li>
+    <strong><a href="{{ post.url }}">{{ post.title }}</a></strong><br>
+    {{ post.citation | markdownify }}
+  </li>
 {% endfor %}
+</ul>
