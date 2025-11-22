@@ -183,6 +183,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  publications: 
+    output: true # Jekyll will generate pages for each publication
+    permalink: /:collection/:title/ # This controls the URL for each publication page
   portfolio:
     output: true
     permalink: /:collection/:path/
