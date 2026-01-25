@@ -3,15 +3,13 @@ permalink: /
 title: "Welcome! Here you can find more information about myself and my research."
 excerpt: "About me"
 author_profile: true
+header:
+  overlay_image: /assets/images/header.jpg
+  overlay_filter: 0
 redirect_from: 
   - /about/
   - /about.html
 ---
-<figure>
-  <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/68c3bad4-7f79-431b-8605-00944001433e" width="700" height="200"
- alt="Logo">
-</figure>
-
 About me
 ======
 
