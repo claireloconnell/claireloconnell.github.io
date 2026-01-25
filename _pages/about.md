@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Welcome to my website! Here you can find more information about myself and my research."
-excerpt: "Research interests"
+title: "Welcome! Here you can find more information about myself and my research."
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,21 +15,26 @@ redirect_from:
 About me
 ======
 
-I joined the [Hobson Lab](http://hobsonresearch.com/) at the University of Cincinnati in the fall of 2020 to research how monk parakeets initiate novel relationships, recover fractured ties, and how these relationships may provide social support. Ultimately, I aim to better understand social processes that underlie animals' ability to flexibly adapt to dynamic environments, or _social resilience_.
+I joined the [Hobson Lab](http://hobsonresearch.com/) at the University of Cincinnati in the fall of 2020 to research how monk parakeets initiate new affiliative relationships and how these relationships may provide social support. Ultimately, I aim to understand social processes that underlie animals' ability to flexibly adapt to dynamic environments, or _social resilience_.
 
 <figure>
   <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/a9e1e755-a4b5-42b6-b7f1-65403d65376e"
  alt="Affiliation">
-  <figcaption> Affiliative partners allopreening (grooming) one another.</figcaption>
+  <figcaption> Affiliative partners allopreening (grooming) one another. We use non-toxic markers to mark individuals with unique three-color combinations. These colors help us identify individuals during our observations.</figcaption>
 </figure>
 
-My long-term goal is to help bridge the gap between behavioral ecologists and conservationists and enhance management strategies for protecting and conserving social species by applying conceptual frameworks and robust analytical tools to actionable conservation objectives. You can read more about my research interests, monk parakeets, and social behavior in conservation in my [Research Overview](https://claireloconnell.github.io/researchoverview/)
+My long-term goals are to help bridge the gap between behavioral ecologists, conservationists, and the public and to enhance management strategies for protecting and conserving social species by applying conceptual frameworks and robust analytical tools to actionable conservation objectives. 
 
-**Check out my social network analysis blog!** 
+You can read more about my research interests, monk parakeets, and social behavior in conservation in my [Research Overview](https://claireloconnell.github.io/researchoverview/)
+
+**Check out my blog!** 
 ======
-Coding is an essential skill for behavioral ecologists ([Theobold et al., 2020](https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1854636); [Auker & Barthelmess 2020](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.3060)), but if you're like me, coding is not exactly intuitive and can be overwhelming! I created a [blog](https://claireloconnell.github.io/posts/) to compile all of the resources I use to help me learn to code (mostly social network analysis), and I supplement these resources with my notes. I hope to update my blog as I learn, so it can be a helpful resource for anyone at any stage looking to learn analytical skills in R. Particularly skills for behavioral analyses like social network analysis. [Here](http://claireloconnell.github.io/posts/2021/12/SNArepository/) is a good place to start.
+I write about animal sociality, behavior, and conservation. I also created a [repository](https://claireloconnell.github.io/posts/) of resources that I used to help me learn to code in R, and I supplemented these resources with my notes and a few tutorials. 
 
-If you have any suggestions, would like to see particular content, or would like to contribute yourself, feel free to reach out! You can find my email and X (formerly Twitter) above!
+Coding is an essential skill for behavioral ecologists ([Theobold et al., 2020](https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1854636); [Auker & Barthelmess 2020](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.3060)), but if you're like me, coding is not exactly intuitive and can be overwhelming! I hope to update my blog as I learn, so it can be a helpful resource for anyone at any stage looking to learn analytical skills, particularly for behavioral analyses like social network analysis. [Here](http://claireloconnell.github.io/posts/2021/12/SNArepository/) is a good place to start.
+
+
+
 
 For more info
 ------
