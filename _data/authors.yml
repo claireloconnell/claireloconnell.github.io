@@ -14,7 +14,7 @@ claire:
   uri: "https://claireloconnell.github.io"
   email: "oconneca@mail.uc.edu"
   bio: "Behavioral ecologist and ornithologist."
-  avatar: "/assets/images/Profile_Picture_Defense.jpg" # Ensure this path is correct!
+  avatar: "/images/Profile_Picture_Defense.jpg" # Ensure this path is correct!
   twitter: "clairakeet"
   github: "claireloconnell"
   googlescholar: "https://scholar.google.com/citations?user=qMVBRjMAAAAJ&hl=en"
