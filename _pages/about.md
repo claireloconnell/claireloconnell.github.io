@@ -19,7 +19,7 @@ I joined the [Hobson Lab](http://hobsonresearch.com/) at the University of Cinci
 {% include figure
    image_path="/assets/images/home/Affiliation.png"
    alt="Affiliation"
-   caption="Affiliative partners allopreening (grooming) one another. We use non-toxic markers to mark individuals with unique three-color combinations. These colors help us identify individuals during our observations. Photo credit: Claire L. O'Connell"
+   caption="Affiliative partners allopreening (grooming) one another. Birds are marked with a unique three-color combination using non-toxic markers. These color combinations help observers identify individuals while collecting data. Photo credit: Claire L. O'Connell"
 %}
 
 My long-term goals are to help bridge the gap between behavioral ecologists, conservationists, and the public and to enhance management strategies for protecting and conserving social species by applying conceptual frameworks and robust analytical tools to actionable conservation objectives. 
