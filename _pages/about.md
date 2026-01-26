@@ -5,13 +5,11 @@ title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 header:
-  overlay_image: /assets/images/home/Header.png
+  image: /assets/images/home/Header.png
 redirect_from:
   - /about/
   - /about.html
 ---
-About me
-======
 
 I joined the [Hobson Lab](http://hobsonresearch.com/) at the University of Cincinnati in the fall of 2020 to research how monk parakeets initiate new affiliative relationships and how these relationships may provide social support. Ultimately, I aim to understand social processes that underlie animals' ability to flexibly adapt to dynamic environments, or _social resilience_.
 
