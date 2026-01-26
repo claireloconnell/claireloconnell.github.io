@@ -5,7 +5,7 @@ permalink: /
 #excerpt: "About me"
 author_profile: true
 header:
-  image: /assets/images/home/Header.png
+  image: /assets/images/home/Header.jpg
 redirect_from:
   - /about/
   - /about.html
