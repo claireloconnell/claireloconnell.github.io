@@ -5,7 +5,7 @@ title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 header:
-  image: /assets/images/home/Header.png
+  overlay_image: /assets/images/home/Header.png
 redirect_from:
   - /about/
   - /about.html
