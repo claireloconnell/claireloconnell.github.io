@@ -280,7 +280,8 @@ plugins:
 #  - jekyll-paginate
 #  - jekyll-sitemap
 #  - jekyll-gistsf
-#  - jekyll-feed
+  - jekyll-feed
+  - jekyll-include-cache
 #  - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
