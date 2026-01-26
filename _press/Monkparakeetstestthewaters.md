@@ -15,6 +15,6 @@ One of the unexpected joys of studying such a highly social species and focusing
 
 **[How parakeets make new friends in a surprisingly human way](https://www.sciencedaily.com/releases/2025/11/251123115434.htm)** - Science Daily
 
-**[Parakeets ‘test waters’ of new relationships(https://www.uc.edu/news/articles/2025/11/popular-science-highlights-uc-parakeet-study.html)]** - University of Cincinnati News
+**[Parakeets ‘test waters’ of new relationships(https://www.uc.edu/news/articles/2025/11/popular-science-highlights-uc-parakeet-study.html)** - University of Cincinnati News
 
 **[What parakeets can teach us about making new friends](https://a-z-animals.com/articles/what-parakeets-can-teach-us-about-making-new-friends/)]** - A‑Z Animals
