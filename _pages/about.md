@@ -1,8 +1,8 @@
 ---
 layout: single
 permalink: /
-title: "Welcome!"
-excerpt: "About me"
+#title: "Welcome!"
+#excerpt: "About me"
 author_profile: true
 header:
   image: /assets/images/home/Header.png
