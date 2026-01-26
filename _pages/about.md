@@ -4,7 +4,7 @@ title: "Welcome! Here you can find more information about myself and my research
 excerpt: "About me"
 author_profile: true
 header:
-  overlay_image: /assets/images/header.jpg
+  overlay_image: /images/header.jpg
   overlay_filter: 0
 redirect_from: 
   - /about/
