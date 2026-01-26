@@ -5,8 +5,7 @@ permalink: /publication/Monk-parakeets-test-the-waters-when-forming-new-relation
 date: 2025-08-12
 venue: 'Biology Letters'
 paperurl: 'https://royalsocietypublishing.org/rsbl/article/21/11/20250399/234062/Monk-parakeets-test-the-waters-when-forming-new'
-citation: Claire L. O'Connell, Gerald G. Carter, Annemarie van der Marel, Elizabeth A. Hobson; Monk parakeets ‘test the waters’ when forming new relationships. Biol Lett 1 November 2025; 21 (11): 20250399. https://doi.org/10.1098/rsbl.2025.0399
-
+citation: "Claire L. O'Connell, Gerald G. Carter, Annemarie van der Marel, Elizabeth A. Hobson; Monk parakeets ‘test the waters’ when forming new relationships. Biol Lett 1 November 2025; 21 (11): 20250399. https://doi.org/10.1098/rsbl.2025.0399"
 ---
 
 Initiating and developing social relationships with strangers can provide fitness benefits, but it is an inherently risky process. To mitigate potential risks and develop trust, strangers may ‘test the waters’ by gradually escalating the type of social investment from low-cost to high-cost. Opportunities to capture the moment animals first encounter one another in the wild are rare, and detailed quantitative assessments of when and how animals initiate relationships are limited. 
@@ -16,4 +15,3 @@ We introduced four unfamiliar groups of feral monk parakeets together into a sin
 This paper was my second first-author manuscript to come out of my PhD. 
 
 {% include figure image_path="/images/Biology-Letters_cover-image.png" alt="Cover image" caption="Check out monk parakeets on the cover of the issue!. Photo credit: Claire L. O'Connell" %}
-
