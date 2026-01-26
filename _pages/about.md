@@ -1,13 +1,14 @@
 ---
 layout: single
 permalink: /
+title: "Welcome!"
+excerpt: "About me"
 author_profile: true
 header:
-  image: /assets/images/home/Header.jpg
+  overlay_image: /assets/images/home/Header.png
 redirect_from:
   - /about/
   - /about.html
-
 ---
 About me
 ======
