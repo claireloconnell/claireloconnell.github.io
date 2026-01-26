@@ -8,7 +8,21 @@ repository: "claireloconnell/claireloconnell.github.io"
 
 # Site Author
 # This points to the "claire" block in your _data/authors.yml
-author: claire 
+#author: claire 
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  name: "Claire L. O'Connell, PhD"
+  uri: "https://claireloconnell.github.io"
+  email: "oconneca@mail.uc.edu"
+  bio: "Behavioral ecologist and ornithologist."
+  avatar: "/images/Profile_Picture_Defense.jpg" # Ensure this path is correct!
+  twitter: "clairakeet"
+  github: "claireloconnell"
+  googlescholar: "https://scholar.google.com/citations?user=qMVBRjMAAAAJ&hl=en"
+  orcid: "0000-0002-3852-3021"
 
 # Theme Settings
 remote_theme: "mmistakes/minimal-mistakes@master"
