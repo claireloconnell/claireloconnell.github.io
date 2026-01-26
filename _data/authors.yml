@@ -9,10 +9,10 @@ Name Name:
   twitter     : "name"
   google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+claire:
+  name        : "Claire L. O'Connell, PhD"
+  uri         : "https://claireloconnell.github.io"
+  email       : "claireo1312@outlook.com"
+  bio         : "Behavioral ecologist and ornithologist."
+  avatar      : "/assets/images/home/Profile Picture_Defense.jpg"
+  github      : "claireloconnell.github.io"
