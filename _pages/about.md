@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Welcome! Here you can find more information about myself and my research."
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 header:
-  overlay_image: /images/header.jpg
+  overlay_image: /assets/images/Header.png
   overlay_filter: 0
 redirect_from: 
   - /about/
