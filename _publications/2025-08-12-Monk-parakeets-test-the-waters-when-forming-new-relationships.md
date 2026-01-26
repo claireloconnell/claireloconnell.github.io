@@ -13,7 +13,9 @@ Initiating and developing social relationships with strangers can provide fitnes
 
 We introduced four unfamiliar groups of feral monk parakeets together into a single 22-bird group and observed the sequence of social behaviours that occurred as relationships developed over 22 days. We tested the effect of relationship status (stranger versus familiar) on the probability of dyads following predicted sequences and whether strangers who progressed their relationships maintained higher rates of no-contact proximity compared with dyads that did not. We found that stranger dyads, but not familiar dyads, were more likely to (i) approach each other without contact before making contact and (ii) follow predicted sequences of affiliative behaviours. Strangers that progressed to contact also had higher rates of associations than did birds that never made contact. These findings provide support for ‘Testing the Waters’ during new relationship formation in a socially and cognitively complex species.
 
-This paper was my second first-author manuscript to come out of my PhD. Check out monk parakeets on the cover of the issue!
+This paper was my second first-author manuscript to come out of my PhD. 
+
+% include figure image_path="/images/ Biology-Letters_cover-image.png" alt="Cover image" caption=" Check out monk parakeets on the cover of the issue!. Photo credit: Claire L. O'Connell" %}
 
 
 
