@@ -3,8 +3,6 @@ layout: single
 permalink: /
 title: "Welcome!"
 excerpt: "About me"
-sidebar:
-  nav: "author"
 author_profile: true
 #author: claire
 redirect_from:
