@@ -3,6 +3,8 @@ layout: single
 permalink: /
 title: "Welcome!"
 excerpt: "About me"
+sidebar:
+  nav: "about"
 author_profile: true
 header:
   image: /assets/images/home/Header.png
