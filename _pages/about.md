@@ -1,25 +1,27 @@
 ---
+layout: single
 permalink: /
 title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 header:
-  overlay_image: /assets/images/Header.png
+  overlay_image: /assets/images/home/Header.png
   overlay_filter: 0
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
+
 ---
 About me
 ======
 
 I joined the [Hobson Lab](http://hobsonresearch.com/) at the University of Cincinnati in the fall of 2020 to research how monk parakeets initiate new affiliative relationships and how these relationships may provide social support. Ultimately, I aim to understand social processes that underlie animals' ability to flexibly adapt to dynamic environments, or _social resilience_.
 
-<figure>
-  <img src="https://github.com/claireloconnell/claireloconnell.github.io/assets/78130420/a9e1e755-a4b5-42b6-b7f1-65403d65376e"
- alt="Affiliation">
-  <figcaption> Affiliative partners allopreening (grooming) one another. We use non-toxic markers to mark individuals with unique three-color combinations. These colors help us identify individuals during our observations.</figcaption>
-</figure>
+{% include figure
+   image_path="/assets/images/home/Affiliation.png"
+   alt="Affiliation"
+   caption="Affiliative partners allopreening (grooming) one another. We use non-toxic markers to mark individuals with unique three-color combinations. These colors help us identify individuals during our observations. Photo credit: Claire L. O'Connell"
+%}
 
 My long-term goals are to help bridge the gap between behavioral ecologists, conservationists, and the public and to enhance management strategies for protecting and conserving social species by applying conceptual frameworks and robust analytical tools to actionable conservation objectives. 
 
