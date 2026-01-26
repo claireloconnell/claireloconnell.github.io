@@ -6,6 +6,7 @@ excerpt: "About me"
 sidebar:
   nav: "about"
 author_profile: true
+author: claire
 header:
   image: /assets/images/home/Header.png
 redirect_from:
