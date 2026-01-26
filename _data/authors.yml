@@ -10,9 +10,12 @@ Name Name:
   google_plus : "Name"
 
 claire:
-  name        : "Claire L. O'Connell, PhD"
-  uri         : "https://claireloconnell.github.io"
-  email       : "claireo1312@outlook.com"
-  bio         : "Behavioral ecologist and ornithologist."
-  avatar      : "Profile_Picture_Defense.jpg"
-  github      : "claireloconnell.github.io"
+  name: "Claire L. O'Connell, PhD"
+  uri: "https://claireloconnell.github.io"
+  email: "oconneca@mail.uc.edu"
+  bio: "Behavioral ecologist and ornithologist."
+  avatar: "/assets/images/Profile_Picture_Defense.jpg" # Ensure this path is correct!
+  twitter: "clairakeet"
+  github: "claireloconnell"
+  googlescholar: "https://scholar.google.com/citations?user=qMVBRjMAAAAJ&hl=en"
+  orcid: "0000-0002-3852-3021"
