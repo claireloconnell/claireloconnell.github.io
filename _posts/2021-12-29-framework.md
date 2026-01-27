@@ -2,6 +2,7 @@
 title: '5 step framework for staying organized'
 date: 2021-12-29 
 permalink: /posts/framework/
+category: coding
 tags:
   - R
   - data
