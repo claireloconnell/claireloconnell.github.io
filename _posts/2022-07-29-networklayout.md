@@ -2,6 +2,7 @@
 title: 'Custom layout'
 date: 2022-07-29
 permalink: /posts/2022/07/networklayout/
+category: coding
 tags:
   - notes
   - resources
