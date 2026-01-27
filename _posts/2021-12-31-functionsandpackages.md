@@ -2,6 +2,7 @@
 title: 'R packages and functions'
 date: 2021-12-31
 permalink: /posts/2021/12/functionsandpackages/
+category: coding
 tags:
   - notes
   - resources
