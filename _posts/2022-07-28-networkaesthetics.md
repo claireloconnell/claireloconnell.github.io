@@ -2,6 +2,7 @@
 title: 'Network attributes and aesthetics'
 date: 2022-07-28
 permalink: /posts/2022/07/networkaesthetics/
+category: coding
 tags:
   - notes
   - resources
