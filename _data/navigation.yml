@@ -20,3 +20,6 @@ main:
 
   - title: "Blog Posts"
     url: /posts/
+
+    - title: "Coding"
+    url: /coding/
