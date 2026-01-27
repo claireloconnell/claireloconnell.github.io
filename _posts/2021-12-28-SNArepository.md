@@ -2,6 +2,7 @@
 title: 'SNA Respository'
 date: 2021-12-28
 permalink: /posts/2021/12/SNArepository/
+category: coding
 tags:
   - notes
   - resources
