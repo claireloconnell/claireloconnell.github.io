@@ -2,6 +2,7 @@
 title: 'What I learned teaching R'
 date: 2021-12-30
 permalink: /posts/lessons-learned
+category: coding
 tags:
   - R
   - notes
