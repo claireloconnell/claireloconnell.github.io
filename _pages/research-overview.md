@@ -14,5 +14,5 @@ I joined the [Hobson Lab](http://hobsonresearch.com/) at the University of Cinci
    caption="Affiliative partners allopreening (grooming) one another. Birds are marked with a unique three-color combination using non-toxic markers. These color combinations help observers identify individuals while collecting data. Photo credit: Claire L. O'Connell"
 %}
 
-My long-term goals center on bridging the gap between behavioral ecology, conservation practice, and public understanding. By integrating conceptual frameworks from behavioral ecology with robust analytical tools, I aim to help develop management strategies that more effectively protect and conserve social species—especially those whose survival depends on the strength and flexibility of their social systems.
+My long-term goals center on bridging the gap between behavioral ecology, conservation practice, and public understanding. By integrating conceptual frameworks from behavioral ecology with robust analytical tools, I aim to help develop management strategies that more effectively protect and conserve social species, especially those whose survival depends on the strength and flexibility of their social systems.
 
